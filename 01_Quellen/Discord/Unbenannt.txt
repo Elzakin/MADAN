@@ -1,0 +1,579 @@
+
+[11:29] 
+OP
+ Matthias: Bei Survival dann Scavenging für die Schrotteile sammeln.
+[11:29]MΛΉΛM: Sehe keine Notwendigkeit einen extra skill zu nutzen
+[11:33] 
+OP
+ Matthias: ist doch ein klassischer trope, der Überlebenskünstler der mit schrottsammeln und dem verwerten von altem über die runden kommt. findet überall noch was verwertbares.
+
+Du hast auch meine Frage bzgl. Science noch nicht beantwortet, ich weiß jetzt immer noch nicht ob da Schilde jetzt draußen sind?
+Ich will ehrlich sein, ich sehe da nicht den großen Spaß und hätte selbst keine Lust auf so einen Wissenschaftler, aber wir können das gerne so machen und ich lasse mich gerne positiv überraschen.
+[11:35]MΛΉΛM: Das ist ein klassischer Trope aber es gibt keine echte Notwendigkeit für einen skill oder eine Schrott Sammler Spezialisierung
+[11:37] 
+OP
+ Matthias: ja dann lass es weg.
+[11:38]MΛΉΛM: Was ist denn mit den Schilden? Klar kannst du was untersuchen
+[11:39] 
+OP
+ Matthias: ich dachte das fällt bei structural raus und ich erkenne nur stahl, eisen und kunststoffgemische und aus welchem material etwas ist.
+[11:59]MΛΉΛM: Wie ist denn deine Vorstellung ?
+[11:59]MΛΉΛM: Wie willst du den Wissenschaftler haben?
+[13:23] 
+OP
+ Matthias: Ich hätte Science als Skill gelassen, da Life und Physical als die großen Spezialisierungen zum Erkennen und daraus Vorteile ziehen rein. Dann Astrogation und ein Bereich Applied. Bei Applied dann über die Bäume die Abhängigkeit mit Life und Physical gemacht. Sprich nur mit Physical kannst du bei Applied den entsprechenden Physical kram wählen, nur mit Life kannste bei Applied den Life kram wählen.
+
+Dann hast du 4 Skills und kannst entweder nicht tüfteln, nichts im Raum machen oder eine der großen Analysesäulen und durch die Bäume dann auch der entsprechende Crafting Bereich fehlt.
+
+Mir ist das aber jetzt nicht wichtig genug um mit meinem Freund zu zanken, daher machen wir das jetzt so wie du dir das vorstellst. Ich gehe davon aus, dass den ersten Playtest keine der beiden Lösungen komplett ohne Änderungen überlebt denn irgendwas ist immer falsch.
+[13:29]MΛΉΛM: Kannst du da vielleicht mal was visualisieren? Es hört sich nicht schlecht an wenn man es grundsätzlich von der Seite aus macht. 
+[14:57] 
+OP
+ Matthias: Eigentlich legt es die Ebene der Spezialisierungen, nach hinten in die Trees.
+
+Du hast zum Physical und Life einfach deine Trees.
+z.B. Botanik und Fauna bei Life. (Ich hole jetzt bewusst mal was anderes).
+
+Man kann dann zum Themenbereich eine zweite Säule oder Branch machen, der aktiv wird sobald man Applied hat.
+
+Stell dir vor Material wäre bei Physical eine Tree.
+Dann haste dort dann im Crafting die Upgradekomponente, dass der Anzug besser Hitze ableiten kann und Hitze +1 bekommt. Zudem dann im non Crafting Branch vom Tree eben deine Erkennungsboni und ggf sogar aktive Fähigkeiten dazu.
+
+Sprich du hast erkunden, aktive Fähigkeiten, passive Boni und Crafting zum Themenbereich.
+
+Wie man die dann schneidet und ob sich sogar Fähigkeiten überlappen ist ja erstmal total egal.
+
+Theoretisch mit dem Ansatz können sich dann auch Fähigkeiten überlappen. Hat der Scientist Astrophysik und da eine Fähigkeit zum einfachen Sprung berechnen. Kann der Pilot diese bei sich in Starship auch haben, ohne dass sich hier grundlegend die Spezialisierung überlappt oder unklar wird wann was gewürfelt wird.
+Dann kann man ohne Scientist auch springen, aber besonders krasse Sprünge in der nähe von schwarzen Löchern oder whatever gehen halt nicht.
+[14:58] 
+OP
+ Matthias: Da diese aktive Fähigkeit eben nur in einem der Trees ist.
+[15:02]MΛΉΛM: dein ansatz hat mich auf eine Idee gebracht. 
+
+Idee wir könnten statt Science:
+
+einen Analyse Skill machen und dann die verschiedenen Wissenschaften dazu als Spezialisierung?
+[15:06]MΛΉΛM: das ist jetzt keine neue Idee aber vielleicht löst sie das problem
+[15:11]MΛΉΛM: Ne ist blödsinn
+[15:11]MΛΉΛM: Ich kannst mir grad noch nicht vorstellen ich brauchs glaube ich einfach mal dargestellt mit Skills und spezialisierungen
+[15:26] 
+OP
+ Matthias: Ja so blödsinn ist das halt nicht.  Denn im Grunde läuft das fast alles irgendwie üher Sensoren hinaus und es hat etwas mit entdecken zu tun. Du kannst es ja erst wissenschaftlich bestimmen wenn du es gesehen hast. Dann hätte man den Bereich scsnning/Sensoren auch direkt erschlagen
+
+
+Aber abgesehen davon.
+
+Du hast Science(mit Physical, Life, Applied und Astro)
+
+Hast du Physicap gelernt kannste halt 2 Trees bedienen z.b. Energy und Materie.
+Bei Energy gibt dann halt die aktive fähigkeit "Schildscan" kosten 2 Energy und 2 Psyche.
+Je nach Wurf gegen den Gegner bekommst halt die Info wie seien Resistenzen in unseren 6 Schadensarten ist.
+
+Bei Material lernstr einen Umgebungsscan der dir Ressourcen aufdeckt.
+
+Sind natürlich alles nur Beispiele und geht sicherlich sexier aber es erlaubt zu differenzieren ohne dass die Spezialisierungen an sich schon zu Granular sind. Bzw du hast so viele Themen ja genannt die dann nur logisch in aktiven und passiven fähigkeiten münden.
+[19:28] 
+OP
+ Matthias: Ich habe nochmal nachgedacht und weiß woher die Dissonanz mit Analyse und Science kommt.
+
+In jeder Serie/Film schaut der Wissenschaftler in den Scanner in der Hand oder auf dem Schiff im Computer.
+
+Du musst ja etwas sehen um es Wissenschaftlich zu identifizieren und wenn du es nicht siehst geht es nicht.
+
+Dann habe ich es mal mit DnD verglichen. wenn ich auf dem Boden einen offensichtlichen Runenkreis sehe, darf ich Arcana zum prüfen machen. Der Runenkreis muss nicht erst gefunden werden er ist offensichtlich.
+Wenn aber wie in unserem Intro zu Dragon Heißt, Faolan erst die versteckten Runen am Fenster finden muss, da diese versteckt sind muss er Perception machen und danach dann Arcana um die Alarmanlage wegzukratzen.
+
+Für mich im Resultat dann die Erkenntnis, dass Science als das Einordnen der bereits wahrgenommen Umwelt ist.
+Dinge die sich aber bewusst verbergen oder die sozusagen ein Eingriff in die Autonomie von etwas Externem sind brauchen "Perception".
+
+Mein Vorschlag wäre ein Skill Elektronics mit den Spezialisierungen Computer, Sensoren, Kommunikation und im Idealfall was 4.(Elektronische Kriegsführung?)
+
+Dieser Skill ist zum Bedienen dieser Gerätschaften und erfüllt die 2. Säule des Wissenschaftler tropes.
+
+Will ich auf dem Schiff im Kampf den Feind scannen ist das die Nutzung von  Sensoren. ich bekomme die Daten ggf habe ich hier eine aktive fähigkeit diese auszurichten oder feindliche Scannerabwehr zu umgehen.
+Durch die trees ist nun aber nichts verloren. Habe ich im science tree zu energietechnik die passive fähigkeit Feldexperte, bekomme ich eben dort einen +1 Bonus auf Scans gegen Schilde, da ich das Ergebnis interpretieren kann.
+
+Auf dem Boden ähnlich, will ich nach Lebensformen suchen ergänzt es sich mit science.
+
+Das gilt natürlich auch für alle anderen, der engineer mit etwas science und Reaktorwissen kann auch hier einen Bonus bekommen.
+
+Ein Schiff das treibt kann science scannen, ist es im Nebel versteckt eher Scanners zuerst.
+
+Macht das Sinn?
+[10:07] 
+OP
+ Matthias: Mir kamen noch ein paar Gedankengänge dazu ich muss das einfach mal runter schreiben.
+Items sollen bei uns ja sehr wichtig sein du hast ja von "Materialschlacht" gesprochen und auch beim Heilen hast du ja gesagt da wir keine Spellslots haben braucht man hier consumables und durch den sehr begrenzten Platz den wir beim Charakter haben wollen passt das ja dann als balancingfaktor, da man irgendwan alles ausgebraucht hat und die masse das zu beginn als man vom schiff losgezogen ist schlicht begrenzt hat
+
+Wir haben auch ein Sensors module slot was auch dann wieder dafür spricht dass dieses gerät sozusagen die erkennung macht und jeder auch ohne skill kann es ja bedienen.
+dann ist wiederum die frage in welchem verhältnis sollen skill und tree boni + item boni liegen.
+
+in unserem system kann man theoretisch eine 10 würfeln was 1/7776 entspricht also unter ein promille. das bleibt auch so bis zu 7 erfolgen was dann unter 3% sind also etwa die hälfte einer natural 20.
+selbst bei skill 5 hat man zu 50% nur 3 erfolge. die frage ist also, wie hoch darf als meister die erfolgschance sein etwas meisterhaftes zu tun? unter 50 über 50 oder etwa 50?
+
+das heißt für mich, dass selbst wenn wir die grade bis 10 skalieren wollten, könnten wir mit den boni auf knapp +7 gehen um dann bei einem extrem krassen check dennoch nur 50/50 zu haben.
+
+bei den 2 risikowürfel liegt die erfolgschance für 1 erfolg schon bei 62% und die für 2 bei 36.
+
+daher die frage, ob man den items, wenn man die spezialisierung nicht hat einfach ein -1 gibt.
+
+Sprich selsbt der ungelernte kann einen einfachen check mit einem scanner zu 36% schaffen. ggf gibt es später bessere scanner die ja +1/+x mitbringen und das ausgleichen. => die Materialschlacht funktioniert auch bei ungelernten.
+
+jemand der jedoch die spezialisierung hat, bekommt den malus sozusagen direkt weg.
+[10:11] 
+OP
+ Matthias: nach der logik könnte man dann nämlich den kampf, einfach auf einen skill machen combat, darunter dann melee ranged und über die trees die waffengattungen. denn die waffen sind items, welche der gleichen logik folgen.
+
+genau wie drohnen, computerterminals etc.
+
+vorausgesetzt wir wollen weiterhin, dass items führend sind, und items die enabler für diese aktionen sind. z.B. wenn ich hacken will, brauche ich an meinem toolbelt ein datapad/armcomputer/whatever.
+
+also die items sind dann direkt mit skill, spezialisierung und tree verknüpft wenn man so will und sind nun nichtmehr einfach da, sondern eingebunden. ergibt das einen sinn?
+[11:15]MΛΉΛM:
+Athletics
+Channel
+Control
+Defend
+Influence ( Leadership, Negotiation, Manipulation)
+Investigate
+Medicine
+Shoot
+Stealth
+Strike
+Streetwise ( Urban Survial )
+Survival ( Wilderness Survial )
+Piloting
+Thievery
+Arts
+Culture
+Physical Science
+Life Science
+Mysteries
+Computing
+Electronics (Hardware, Strompläne, Elektronik im Allgemeinen)
+Engineering (Crafting)
+
+Sind das dann jetzt eigentlich unsere base Skills? 
+[12:13]MΛΉΛM:
+Athletics
+“You climbed the fence instead of finding the gate because thinking is cardio for nerds.”
+Domains: Climbing, Running, Swimming, Jumping, Acrobatics, Physical Endurance, Stamina, Balance
+
+Channel
+“A direct mental connection to incomprehensible cosmic forces. What could possibly go wrong.”
+Domains: Psionics, Mental Projection, Telepathy, Energy Channeling, Astral Perception, Anomalies
+
+Control
+“If there’s a blinking light and a joystick, you will absolutely press the wrong button with confidence.”
+Domains: Drone Control, Vehicle Handling, Turret Operation, Machine Control, Remote Systems
+
+Defend
+“Not necessarily winning. Mostly just surviving slightly longer than the other idiot.”
+Domains: Blocking, Dodging, Taking Cover, Shield Techniques, Defensive Stances, Damage Resistance
+
+Influence
+“Some call it charisma. Others call it a red flag.”
+Domains: Leadership, Negotiation, Intimidation, Manipulation, Diplomacy, Social Control, Motivation
+
+Investigate
+“You treat every conversation like cross-examination and somehow still wonder why people avoid you.”
+Domains: Investigation, Crime Scene Analysis, Pattern Recognition, Interrogation, Observation, Forensics
+
+Medicine
+“People trust you with surgery despite the fact you haven’t slept in 36 hours.”
+Domains: First Aid, Surgery, Caretaking, Diagnostics, Pharmacology, Anatomy, Medical Knowledge
+
+Shoot
+“Your conflict resolution strategy travels faster than sound.”
+Domains: Pistols, Rifles, Sniper Weapons, Heavy Weapons, Target Acquisition, Ballistics
+
+Stealth
+“You disappear so effectively people forget to include you in plans. Exactly how every edgelord likes it.”
+Domains: Sneaking, Hiding, Camouflage, Silent Movement, Shadowing, Infiltration
+
+Strike
+“Anger management failed. Here we are.”
+Domains: Melee Weapons, Martial Arts, Unarmed Combat, Aggressive Tactics, Close Combat
+
+Streetwise
+“You know which alley sells illegal weapons and which one sells surprisingly good noodles.”
+Domains: Black Markets, Urban Networks, Gangs, Rumors, Slums, Smuggling, Street Culture
+
+Survival
+“Nature wants you dead. You took that personally.”
+Domains: Hunting, Navigation, Camp Building, Wilderness Knowledge, Foraging, Weather Reading, Tracking
+
+Piloting
+“Parallel parking, but the wall is an asteroid field and everyone dies if you fail.”
+Domains: Navigation, Spaceflight, Vehicle Operation, Astrogation, Flight Maneuvers, Travel Planning
+[12:13]MΛΉΛM:
+Thievery
+“Security systems are merely strongly worded suggestions.”
+Domains: Lockpicking, Pickpocketing, Burglary, Trap Disarming, Restricted Access, Smuggling
+
+Arts
+“Finally, a skill for emotionally damaged people with expensive hobbies.”
+Domains: Music, Dance, Painting, Acting, Literature, Performance, Artistic Expression
+
+Culture
+“Explaining why civilizations collapse since civilization was invented.”
+Domains: Politics, Economics, Law, History, Society, Religion, Ideologies, Diplomacy
+
+Physical Science
+“Turning ‘what if?’ into explosions since forever.”
+Domains: Physics, Chemistry, Material Science, Energy Systems, Thermodynamics, Reactions, Laboratory Work
+
+Life Science
+“Studying life in great detail while forgetting to drink water yourself.”
+Domains: Biology, Flora, Fauna, Evolution, Genetics, Ecology, Environmental Science
+
+Mysteries
+“Reality stopped making sense around you several sessions ago.”
+Domains: Psionic Phenomena, Paranormal Events, Madan, Cosmic Anomalies, Unexplained Forces
+
+Computing
+“You can hack military infrastructure but still lose passwords immediately.”
+Domains: Programming, Networking, Hacking, Software Development, Data Analysis, Cybersecurity
+
+Electronics
+“Every electrician claims the smell of burnt circuits is ‘normal.’”
+Domains: Circuits, Sensors, Power Systems, Wiring, Electronic Repair, Energy Distribution
+
+Engineering
+“Half genius, half duct tape, somehow legally employed.”
+Domains: Construction, Repairs, Mechanical Engineering, Structural Systems, Ship Systems, Infrastructure, Improvised Technology
+[12:36] 
+OP
+ Matthias: Bis auf Investigation, welches ich im Scifi Context eigentlich echt als Teil von Sensors sehe bzw die Spezialisierungen könnten genau so gut auch in anderen Teilen aufgehen, können wir das so machen. 
+
+Nur zum Verständnis, Fahrzeuge sind dann unter Control und Flugzeuge bzw. Spaceships unter Piloting korrekt?
+[13:06] 
+OP
+ Matthias: Weitere Frage sind alle Domains Spezialisierungen oder nur Trees?
+[13:08]MΛΉΛM: Domains sind beispiel Fälle wo ich das Verwende
+[13:09]MΛΉΛM: Das ist komplett ohne Spezialisierungen
+[13:09]MΛΉΛM: Examples triffts wohl besser
+[13:10]MΛΉΛM: oder Usage
+[13:10] 
+OP
+ Matthias: ja ok sehr gut. 
+dann keine spezialisierung und stattdessen gibts bei 3, 4 und 5 nur einen tree zum skill den man freischalten kann?
+[13:11]MΛΉΛM: Ich hab nochmal drüber nachgedacht vielleicht lassen wir das mit den Spezialisierungen und was wir bisher gemacht haben sind einfach trees?
+[13:11]MΛΉΛM: das sie ja auch sehr auf Combat getrimmt sind
+[13:13] 
+OP
+ Matthias: jo das geht auch, wobei ich die trees jetzt persönlich nicht nur für combat machen würde, ich finde da gehen auch geile social und exploration sachen rein, besonders bei sowas wie wissenschaft, scanning, hacking, crafting etc.
+[13:13]MΛΉΛM: Aber war nur so eine Idee
+[13:13]MΛΉΛM: Ja stimmt muss nicht nur combat sein.
+[13:17] 
+OP
+ Matthias: wie gesagt nur bei investigation denke ich das ist schon von anderen skills eigentlich abgedeckt.
+
+die restlichen 95% passen für mich, können wir so machen.
+
+Für die Sprüche haste aber sicherlich lange überlegt, die waren bestimmt nicht einfach zu finden.
+[13:18] 
+OP
+ Matthias: Oder gibts da eine Scifi Vorlage aus einem Buch?
+[13:22]MΛΉΛM: Durch welche?
+[13:27] 
+OP
+ Matthias: Die Sciences, Influence und eben Electronics durch scanning.
+Ist ja kein Sherlock Holmes wo mit der Lupe geschaut wird sondern eben technisch und dann interpretiert Science das oder ggf Medicine bei einer Leiche und die Befragung ist bei Influence.
+
+Finde sonst ist Investigation wieder so seltsam gedoppelt. Suche ich die Wand jetzt mit Investigation ab weil ich in DnD das für Geheimgänge auch mache, oder wird die Wand gescannt und ist hier ein Wurf, damit unser das Item führt Konzept halt voll ausgenutzt wird.
+
+Leiche inspizieren wieso nicht Life Science oder Medicine. Datenpad des Opfers auswerten, Computers. etc.
+
+Aber das Thema mit Investigation und der Überschneidung ist ja nichts neues jetzt 
+[13:39]MΛΉΛM: Also für mich entsteht da keine wirkliche Doppelung, weil wenn ich einen Körper untersuche auf Verletzungen, klar mache ich Medizin. Aber ich würfel ja nicht grundsätzlich, wenn ich einen Körper untersuche, auf Medizin. Es geht ja immer um das, was ich machen möchte. Wenn ich einen Körper auf versteckte Taschen in seiner Kleidung untersuche oder auf Ungereimtheiten bei einem Tatort, dann würfel ich in Investigation. Ich kann jetzt zum Beispiel auch den Körper untersuchen und feststellen, die Hornhaut ist dicker auf der rechten Hand als auf der linken. Er ist Rechtshänder. Und die Waffe, die er hält, ist aber in der falschen Hand, als hätte sie jemand dort platziert. Und dann bin ich, finde ich, nicht mehr bei Medizin, sondern das ist dann Investigation, was untersuchen. Oder ich untersuche einen Ort nach versteckten Zugängen oder versteckten Dingern. Dann bin ich auch nicht so ganz bei Physik, bei Physik geht es für mich nicht darum, die feinsten Kleinigkeiten zu erkennen, sondern eher Sachen zu analysieren. Materialien zu analysieren oder so und nicht irgendwie eine grobe Analyse der Umgebung zu machen. Wo sind Fußspuren oder so? Da ist dann für mich Physik nicht mehr das richtige Tool.
+
+Im Endeffekt kann jeder der skills ein Objekt untersuchen aber jeder skill liefert andere Informationen 
+[13:42]MΛΉΛM: Ich finde deshalb nicht, dass Investigation die Fachskills ersetzt. Eher ergänzt es sie als allgemeine Ermittlungs-, Such- und Deduktionsfähigkeit. Und ehrlich gesagt glaube ich auch, dass uns etwas fehlen würde, wenn wir so einen Kernskill komplett weglassen würden, weil genau diese Art von Spurensuche und Entdecken eigentlich zu fast jedem Pen-and-Paper dazugehört.
+[13:43] 
+OP
+ Matthias: Ok von mir aus, dann möchte ich aber eine ordentliche Abgrenzung zum Sensors Gameplay. Das ist ja eine der 6 Anzugslots und ich möchte schon, dass es eine elementare Relevanz hat. Für mich gehört das schlicht zum Scifi Setting dazu. Wenn das komplett irrelevant dann wird weil jeder Laseraugen hat und Fingerabdrücke und alle anderen Spuren durch einen Wurf auf Investigation erkennt finde ich das mega Banane.
+[13:45]MΛΉΛM: Absolut, ich stimme dir hundert Prozentig zu. Genau solche Spezialfälle sind es dann die dann in die Fachskills gehört. Mächtige fähigkeiten wie Fingerabdrücke nehmen können dann gerne vom Mediziner gemacht werden vielleicht ist das auch eine Fähigkeit im Medicin tree? Forensische Untersuchung?
+[14:36] 
+OP
+ Matthias: Was wir halt nun noch machen müssten wäre wirklich schaue nwie andere Poolsysteme das Thema Inflation lösen. Klar bei DnD hast du mit Expertise und Proficiency ggf auch Inflation und mit +15 auf einen Skill oder so wierden Passiva wie alles unter 9 gilt als 10 auch eine krasse Inflation.
+
+Wir sollten da aber nochmal nach grundsätzlichen Lösungen schauen, damit wir beim Bauen der Bäume nicht erneut in so einer setsamen Situation landen. Also neben den aktiven Fähigkeiten, welche Art von Boni kann man geben die passiv sind und zudem spannend, hilfreich und spaßig.
+[10:40] 
+OP
+ Matthias: Ich habe die Skills wie von dir vorgeschlagen ins Foundry System übernommen.
+
+Die letzten Tage reift da eine Idee in meinem Kopf und ich will die mal kurz ausspeichern.
+
+Wir haben diese Trees, die ja ein Kernfeature sind da sie das Klassenlose System, aktive und passive Fähigkeiten unterstützen. Diese stellen sozusagen auch den Progress im Können dar.
+
+Der Skill ansich ist eine Abstraktion  man könnte Skill 5 sein ohne einen Baum gelernt zu haben,
+
+Was ist wenn wir das umdrehen?
+Sprich wir haben die Bäume und da war ja die Idee "Standardbäume" zu haben welche frei wählbar sind. Und welche die hinter einem Item/Wissen durch den DM gelocked sind und erst freigeschaltet werden müssen.
+
+Was ist wenn man im Baum nun eine Node hat welche dann den Skill +1 erhöht.
+
+Ich würds dann so sehen, dass man außer bei Channel immer mit 1 startet. (Channel sollte man schlicht nicht können, Psionik ist ja hier was besonderes)
+Zielwert 1 sind ja die einfachsten Tasks, da es faktisch ja nicht einfacher als 1 geht.
+
+Angenommen ich bin Pilot, dann habe ich hier einen generellen Piloting Tree, dort skille ich und bekomme dann in der mitte/am Ende ein +1.
+
+Ich bin nun ein besserer Pilot nun bekomme ich mit Wissen/Item und meinem neuen 2 zugang auf weitere Trees, z.b. besondere Manöver. Dort skille ich durch erhalte aktive/Pasisive Fähigkeiten und irgendwann nochmal eine node die mich auf 3 hebt.
+
+Sprich der Skill wird nicht irgendwie abstrakt besser, sondern durch konkretes lernen ist er dann irgendwann besser.
+
+Die Anzahl der Freischaltbaren Bäume pro Skill kann ja weiterhin limitiert bleiben auf 3 oder was auch immer.
+
+Dann kann man das ja so aufteilen, dass der basistree von mir aus 2 nodes hat und die spezialtrees 1 node so dass man am Ende weiterhin auf 5 kommt.
+[10:45] 
+OP
+ Matthias: wobei ich da nach langer recherche auch dafür bin, dass es ruhig höher gehen kann dafür fixe +x werte komplett raus fallen. diese sind eigentlich das problem bei poolsystemen und haupttreiber der inflation. die anzahl der würfel hingegen nähert sich einer abflachenden kurve welche nie die 100% erreicht
+[11:35]MΛΉΛM: Die Idee manche skills hinter requirements zu packen ist ja nicht neu. Was ich für Psionic sehen würde aber gibt es andere skills die man locken sollte?
+[11:36]MΛΉΛM: Wo würde man in deiner Idee dann die trees herbekommen? 
+[12:02] 
+OP
+ Matthias: Ne, neu ist das nicht, ich habs nur rumgedreht. Statt dass ein abstrakter Skillevel bestimmt in welchen Tree ich gehen kann.
+
+Der Tree ist führend und bestimmt wie gut ich bin. Wir haben dann halt einen Basistree zu jedem Skill und in den weiteren bekommt man eben weitere "Level".
+
+Das hißt ich erhöhe nicht den Skill direkt, sondern ich erhöhe ihn über eine Node im Baum.
+
+Basis Trees hat man halt immer die Möglichkeit rein zu skillen.
+
+Die weiteren schaltet man genau so frei wie es sowieso vorgesehen war, der Dm entscheidet ob man das Item/Wissen findet.
+
+Es heißt aber auch ich investiere erstmal in den Basistree und baue meine Fähigkeiten aus, und danach entwickle ich mich und nicht umgekerht ich mache erstmal den Skill auf Level x und Picke mir dann die Kirchen aus den vorhandenen Trees.
+
+=> Die Entwicklung ist Storytechnisch geiler, und wir können Würfel statt fixer +1 Werte verteilen. Rein von der Mathematik löst das nämlich das Inflationsproblem, es fühlt sich haptisch geiler an mehr in der Hand zu haben, auch optisch sieht man es besser.
+
+=> könnten wir weitere bisher für gut befundene features in die dynamische entwicklung dann einbinden. Sowas wie die 2 bei einer 6, oder ggf sogar sowas wie eine Würfelexplosion, oder das negieren einer 1 etc etc.
+
+Wie gesagt ich habe die letzten tage mathematisch rumgeschubbst und auch mal vergleiche mit anderen systemen gemacht und wie das gelöst wird und faktisch ist bei pools ein +1 tatsächlich das schlechteste was wir machen könnten 
+[12:14]MΛΉΛM: Wo liegt der Unterschied, wenn wir den Basis tree Skillen statt den Skill selbst also in beiden fällen, sind ja beide Sachen vorhanden 
+[12:16]MΛΉΛM: Ich seh den Benefit nicht so ganz, so wie ich das sehen kann man mit beiden Systemen das selbe abbilden
+[12:19] 
+OP
+ Matthias: finde das tree driven system ist halt wesentlich organischer und bringt halt echten forschritt. wohingegen du ansonsten einfach stumpf im skill auf level 4 gehen kannst ohne faktisch je einen tree angefasst zu haben. man ist sozusagen meister im nichts können.
+
+es geht dann ausschließlich um irgendwelche checks zu bestehen. ich finde das erzählerisch auch sehr schwach.
+
+drehen wir es rum muss man aber erstmal was lernen und der skill ansich verbessert sich dann eben mit.
+
+der basis tree gibt dir irgendwann mittig oder am ende einen würfel/erhöht den skill. aber dafür musst du um dort hin zu kommen ja bereits ein paar fähigkeiten gelernt haben um im tree auch nach unten zu kommen. das ist eben der punkt.
+[00:37]MΛΉΛM: Ich habe mir das Ganze jetzt nochmal ein bisschen durch den Kopf gehen lassen. Du hast gute Punkte gebracht, aber ich stimme auch nicht mit allem überein.
+
+Ich denke, ich bleibe bei der Aussage, dass wir im Kern eigentlich nur das System umdrehen. Vorher erhöhen wir den Skill und gewähren dadurch Zugang zu verschiedenen Tree-Bereichen bzw. Leveln. Jetzt erhöhen wir den Tree und steigern damit den Skill-Level.
+
+Dadurch wird erstmal kein konkretes Problem gelöst oder ein offensichtlicher Benefit geschaffen. Für mich wirkt es eher so, als würde zusätzliche Komplexität entstehen, da der Skillwert nicht mehr direkt gesteigert wird, sondern indirekt über den Tree, der dem Skill selbst eigentlich untergeordnet ist. Das erzeugt wieder eine zusätzliche Ebene und macht es gerade für neue Spieler schwerer verständlich.
+
+Das erinnert mich etwas an den Workshop von letztens zum Thema unnötige Komplexität. Mehr Ebenen bedeuten nicht automatisch mehr Tiefe.
+
+Was ich nachvollziehen kann, ist dein Argument, dass es erzählerisch stärker wirkt. Wenn man statt generischer Skill-Level wirklich Fähigkeiten erlernt, finde ich das schon einen interessanten Ansatz.
+
+Allerdings stellt mich das auch vor die Frage: Warum haben wir dann überhaupt noch Skills? Wo fängt das an und wo hört das auf?
+
+Ich sage nicht, dass die Idee schlecht ist, aber wir öffnen damit auf jeden Fall eine ganz neue Systemarchitektur beziehungsweise ein neues Themenfeld, das deutlich größer ist als nur die Progression umzudrehen.
+
+Der Punkt mit den +1 bei Würfelpools ist davon für mich getrennt zu betrachten. Den hast du ja ohnehin nochmal separat im Würfelsystem angesprochen.
+
+Da denke ich auch, dass es sinnvoll ist, nochmal genauer hinzuschauen oder das System weiter zu verfeinern.
+
+Wo ich nicht ganz deiner Meinung bin, ist der Punkt „Meister im Nichts können“.
+
+Ich verstehe den Gedanken dahinter nicht wirklich. Klar, am Ende würfelst du einen Skill-Check. Aber ich verstehe nicht, warum das erzählerisch schwach sein soll. Im Endeffekt hängt es doch immer stark davon ab, wie der DM das Ganze verpackt.
+
+Bei D&D hat uns das bislang ja auch nicht gestört. Ich verstehe nicht ganz, wie du das grundsätzlich anders handhaben möchtest, weil das im Endeffekt der Kern fast jedes RPGs ist: Du würfelst darauf, ob du etwas schaffst oder nicht.
+
+Egal welches Würfelsystem oder welche Boni verwendet werden, am Ende würfelst du Wahrscheinlichkeiten aus. Deshalb verstehe ich nicht ganz, warum genau dieser Teil problematisch sein soll.
+
+Ich wäre tatsächlich dafür, dass wir die Idee, mehr Kompetenzen oder Fähigkeiten in Trees bzw. Tree-Nodes abzubilden, im Hinterkopf behalten. Das ist auf jeden Fall eine Überlegung wert.
+
+Ich würde aber gerne erstmal fertig werden und von der Ideensammlung in die Finalisierungsphase übergehen.
+
+Das heißt nicht, dass ich deine Ideen grundsätzlich verwerfen möchte. Ich würde nur gerne das Skillsystem, so wie es aktuell existiert, erstmal fertig machen. Wir müssen nicht direkt alle Trees ausarbeiten. Wir können ein paar Charaktere bauen, die dafür nötigen Trees erstellen und das Ganze einfach testen.
+
+Bevor wir jetzt wieder neue Ideen einbringen und das Skillsystem erneut umwerfen, sollten wir erstmal Erfahrung mit dem bestehenden Stand sammeln.
+[07:18] 
+OP
+ Matthias: Ja ich verstehe die Verwirrung beim Skill Level, es machts leichter wenn man einfach denkt, dass es keinen Level mehr gibt. Stattdessen steht im Feld die Anzahl Würfel welche auch aus den Nodes kommt.
+Ein wenig wie bei DnD, es gibt kein Skill Level aber einen Wert, aus Attributen und Klassenfeatures in Form von Proficiencies.
+
+Das mit dem Meister in Nichts ist auf die Bäume bezogen.
+Es geht nicht ums Ändern wie Skill Checks grundsätzlich funktionieren.  Wenn ich  Maximalen Skill habe und Würfe Meistere, wieso  kann ich dann 0 aktive Fähigkeiten in dem Skill haben und keinen Baum je angefasst?
+Das bringt dann bei Grenzfällen schon die Frage. Ein Pilot Skill 5 will im Roleplay Verfolger abschütteln er würfelt Piloting. Dass er aber im Tree keine Fähigkeit hat um auszuweichen, Hard Turns zu machen oder enge Kurven zu fliegen spielt keine Rolle.
+Ja es ist kein Kampf aber erzählerisch ist es schwach. Kommen die Würfel aus dem Baum muss ich ein paar Fähigkeiten picken und es wird schlicht lebendiger. Der Wurf funktioniert genau so aber wird glaubwürdiger und besonders bei Skills die 2 Spieler haben ist der Invest der gleiche. Ich bin nicht Meister in X mit nur dem Skillinvest wohingegen der andere Spieler neben dem Skill auch die Bäume gelernt hat faktisch aber beim Check genau so gut ist, da der Skillcheck es nicht berücksichtigt.
+
+Das war so für mich der größte Vorteil abgesehen davon dass wir keine Sperre brauchen bzw zweite Ebene brauchen.  Wenn das Wissen/Items welches Bäume sperrt freigeschalten wird, eröffnet es dann indirekt wieder die Möglichkeit der Erhöhung des Skills in dem in diesem Baum eine Würfelnode ist. Es gibt also keine zweite Ebene mehr sondern nur noch eine und zwar die Trees und da wir da ein Limit an lernbaren Trees pro Skill haben wollten (ursprünglich Spezialisierungen) wäre das in sich geschlossen die Begrenzung pro Tier gewesen und damit der Anzahl Würfel pro Skill.
+[07:19] 
+OP
+ Matthias: Aber ja lass uns Mal Würfeln und spielen. Wann geht's los?  
+[08:44] 
+OP
+ Matthias: Guten Morgen,
+nach dem gestrigen Gespräch habe ich nachgedacht und will jetzt mal ein paar Eckpfeiler abklopfen, ich glaube die müssen klar sein, damit man wirklich sagen kann welche Art der Skalierung besser zum System passt.
+
+Bisher haben wir:
+
+Unsere Attribute gehen von 1-10, die Steigerung jedes zweite Level sprich 5 Würfel und 5 Passivwert/Widerstand.
+
+Die Items gehen von 1-5.
+
+Die Skills gehen von 1-5. Bekommen aber Boni (in welcher Form auch immer, erstmal offen).
+
+Fragen:
+Sollen niedrige Zielwerte bei hohem Level ein Autoerfolg sein?
+=> Das heißt, dass die Anzahl an Schwierigkeiten reduziert wird. Habe ich vorher eine Varianz von 1-5 wird diese auf ggf 3-5 eingedampft.
+Umgekehrt könnte das System halt auch härter sein (niemand ist ein Übermensch) Fehler immer möglich.
+Beides möglich, was ist deine Präferenz?
+
+Im Kampf wünschst du dir mehr Varianz, heißt das Zielwerte gegen Treffer?
+Was geschieht mit Angriffen gegen Attribute/Widerstände und mit Angriffen gegen Items? (1-5)
+
+Was wäre so die Range, von der du sagst die ist super für den Kampf? 1-10?
+
+Statt mehr Zielwerte, könnte es auch Erschwerungen geben?
+Mathematisch machen die nämlich was anderes.
+
+Angenommen ich habe 5 Würfel in einem Skill und muss Zielwert 2 Erreichen, so ist meine Chance 52,8% (4er zählen 0).
+Wird der Zielwert erhöht auf 3 so sind es nur noch 37,4%.
+Zieht man mir jedoch einen Würfel ab und ich habe nur noch 4, so sind es 45,9%.
+
+Sprich statt dem Erhöhen des Zielwerts kann ich durch Erschwerungen Würfel beim Angreifer reduzieren. Wenn wir sagen es gibt Erschwerungen von 1-3 hätten wir dadurch 3*5 => 15 "Zielwerte".
+Für mich ein Vorteil wäre auch du kannst einfache Checks unter widrigend Bedingungen erschweren und damit eine Geschichte erzählen. Beim spähen war das Sicherheitsystem Stufe 2. Beim Heist ist aber etwas parallel was es erschwert da unvorhergesehen/ungeplant. Es bleibt 2 aber mit Abzug.
+Wenn das gar nicht geht ist das absolut ok, dann überlege ich von 1-10.
+[09:05] 
+OP
+ Matthias: Erweiterung bis Zielwert 20 wenn gewünscht.
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dice Pool Lab v2.5 – Zielwerte 1–20</title>
+
+dice_pool_lab_v25.html
+42 kB
+[10:07]MΛΉΛM: Was ich versuchen will darzustellen ist so ein Kampagnen aufbau wie dieser hier:
+
+[10:07]MΛΉΛM: Minion Chapter 1 ist aber nicht so stark wie minion chapter 2
+[10:11]MΛΉΛM: Aus meiner Sicht haben wir zwei Möglichkeiten: Entweder verschieben wir die Kurve über Bonuserfolge bzw. +1/+2 nach oben, oder höhere Gegner ziehen Würfel aus dem Pool ab, wenn sie über dem vorgesehenen Schwierigkeitsgrad liegen.
+
+Beides funktioniert grundsätzlich. Was ich am Würfelabzug aber nicht so sexy finde, ist der zusätzliche Aufwand. Man kann nicht einfach sagen: „Ich greife an und würfle“, sondern muss erst prüfen, ob der Gegner Mali verursacht oder irgendwelche Anpassungen nötig sind. Das macht den Ablauf etwas weniger direkt.
+
+Die Lösung über Bonuserfolge finde ich simpler, weil sie nur die Kurve verschiebt. Gegner werden automatisch schwerer zu treffen, ohne zusätzliche Zwischenschritte. Gleichzeitig bleiben Sondermechaniken oder Würfelabzüge natürlich weiterhin ein gutes Werkzeug, um besondere Gegner außerhalb des normalen Rasters abzubilden.
+
+Ich finde Würfelabzüge also nicht grundsätzlich schlecht, aber eher als Ausnahme oder Spezialmechanik interessant und weniger als Kernsystem.
+[10:11] 
+OP
+ Matthias: Das kannst du ja machen. Die Frage ist halt das was ich geschrieben habe, wie werden Zielwerte ausgesteuert, nur über Fixe Zahl oder mit Kniff.
+Zudem soll Zielwert nur Tohit sein oder solls auch Resistenz sein.
+
+Hier kollidiert unser System aktuell noch. Da auch Items und Attribute "nur" von 1-5 gehen.
+
+Aber dein Ansatz ist doch wunderbar, lass uns doch die Tabelle machen, sprich wie viele Chapter soll es geben? Müssen zwingend alle Gegner unterschiedliche ZW haben oder können z.B. Minion und Normal auch gleichen ZW haben sich aber aufgrund ihrer Skills, Attirbute, Ausrüstung ganz anders anfühlen und stärker sein.
+[10:14] 
+OP
+ Matthias: Wenn die Tabelle fertig ist sehen wir ja welches Preisschild man drann macht und dann ergibt sich ja die abgeleitete Notwendigkeit
+[17:02] 
+OP
+ Matthias: Ich merke gerade, dass der Ansatz Gegner so aufzuteilen massive Probleme mit sich bringt.
+
+Du kannst ja eine Drohne haben welche nur in Schwärmen auftritt und daher Typ Minion ist, kein Schild nur 1 HP und extrem wenig Schaden aber dafür wenig und schwer zu treffen.
+Gleichzeitig, kannst du aber einen leicht zu treffenden trägen Behomoth haben, der dafür aber HP, Resistenzen und massiv Schaden macht.
+
+Im Grundsatz aber mal zu erörtern in welchem Chapter man welchen Zielwert erreichen kann, macht durchaus Sinn. Ich denke aber da reicht es fast schon die Anzahl der Chapter und dann Zielwert von Bis hinzuschreiben, damit korreliert dann ja alles von Skill bis Boni.
+[17:21]MΛΉΛM: Ja ich hab auch schon festgestellt dass das gar nicht so einfach ist das über mehrere Kapitel aufzuteilen.
+[17:36] 
+OP
+ Matthias: Auf Kapitel aufteilen geht sogar noch ganz gut. aber eben nur im Intervall mehr oder weniger.
+[18:32] 
+OP
+ Matthias: Was denkst du wenn wir grundsätzlich mal sagen 4 Kapitel wobei die Aufteilung 30%, 30%, 30% 10% ist.
+Sozusagen Anfang, Mitte, Ende und Elite.
+Zielwerte Korridore dann 1-3, 4-6, 7-9 und 10.
+Wobei ZW ja alles ist von Attributen zum Unschubsen/Kontrollieren bis zum eigentlichen Treffen oder Disabeln von Ausrüstung. Es gibt natürlich auch fließende Übergänge und Ausnahmen wenn man Gegner eben interessant gestaltet. Geht mehr um eine grobe Zielrichtung.
+
+Wenn wir weiterhin ausgehen, dass Spieler nach der Charakter Erstellung in 1-3 Skills bei 3 starten, mache ich gerne Mal ein paar Tabellen mit Verteilungen über die Tiers of Play.
+[09:00]MΛΉΛM: Ich denke, dass die Aufteilung der Kapitel eigentlich komplett unabhängig vom System ist, weil sie von der Person bestimmt wird, die das Abenteuer schreibt und gestaltet. Natürlich können wir sagen, und das ergibt auch ungefähr Sinn, wie du es beschrieben hast, dass mit Fortschreiten der Kampagne die Gegner stärker werden. Aber was haben wir dadurch wirklich gewonnen? Eigentlich nicht besonders viel. Es ist im Grunde nur die Feststellung, dass die Schwierigkeit mit der Kampagne ansteigt. Das ist zwar richtig, aber der Mehrwert daraus ist begrenzt.
+
+Ich glaube auch nicht, dass wir primär über Zielwerte sprechen sollten, weil diese Zielwerte letztlich nur aus den Fähigkeiten der Spielercharaktere abgeleitet werden. Ich würde den Fokus eher darauf legen, was ein Spieler zu einem bestimmten Zeitpunkt tatsächlich kann. Darunter könnte man dann eine Art verstecktes Levelsystem bauen, vielleicht über Fähigkeiten oder Ascension Perks.
+
+Zum Beispiel könnte man sagen: Wenn ein Charakter genug Erfahrung gesammelt oder eine bestimmte Anzahl an Ascension Perks erreicht hat, steigt er in das nächste Macht- oder Erfahrungsniveau auf. Ich denke, das ist der sinnvollere Weg, um Charaktere einzuordnen.
+
+Im Kern geht es also eher um die Frage: Welchen Kompetenz- oder Erfahrungsgrad hat ein Spielercharakter zu einem bestimmten Zeitpunkt seines Fortschritts?
+[09:04] 
+OP
+ Matthias: Ja aber genau ist doch das, was du mit deiner Tabelle oben erreichen wolltest. Grobe Kapitel und dann festlegen was ein Spieler in welchem Tier kann oder nicht kann.
+Ich habs ja sogar wesentlich weniger starr jetzt beschrieben und bin nicht auf Minion, Major, Boss etc gegangen.
+
+Dadurch kann man dann ableiten wie die Kurve mittels Würfel und Boni aussehen muss. 
+Von mir aus kann man die Einteilung auch weg lassen, 100% passt die eh nicht.
+
+=> Die Grundsätzliche Frage bleibt, wie viele DC's brauchst du? Reichen 10, brauchst du 20?
+[09:24]MΛΉΛM: Ja, das stimmt. Das war zwar die Richtung, die ich ursprünglich erreichen wollte, aber im Nachhinein war das eigentlich kein guter Input von mir. Da habe ich mich wirklich etwas verrannt.
+
+Zu der Frage, wie viele DCs wir überhaupt brauchen: Ich denke, dass zehn grundsätzlich ausreichen. Dazu dann nur einige wenige Boni für die Skills selbst. Im Combat-System können wir dagegen stärker mit Flat-Boni arbeiten, um das allgemeine Power-Plateau anzuheben und damit auch die Progression beziehungsweise die Skalierung der Gegner besser darzustellen.
+[09:35] 
+OP
+ Matthias: Combat und nicht Combat zu entkoppeln funktioniert nicht bzw nur sehr eingeschränkt.
+
+Angenommen ich habe eine Fähigkeit um etwas zu Hacken/Überladen dann macht es keinen Unterschied ob das eine Kamera oder Computer im Roleplay ist oder ein Geschützturm des Gegners im Combat. Wir müssten sonst hart komplex beschreiben wann ein Bonus zählt und wann nicht.
+Das funktioniert nur bei Fernkampf, Nahkampf da die im Roleplay vermutlich nicht verwendet werden.
+
+Sensoren, Electronics, Engineering etc. alles was in und out of Combat verwendet wird,
+
+Das gleiche ist wenn wir bei einem Nahkampfangriff bis DC 10 gehen ob ich treffe und unser Save ob ich mit einer Fähigkeit umgeworfen werde nur bis DC 5 geht (unsere Attribute gehen aktuell nur bis 5).
+
+Ich würde daher einfach durch die Bank weg alles bis 10 auslegen. Das gibt genug Varianz und wir könnten dann bei niedrigen Erfolgen auch wieder an die 100% gehen ohne, dass man zu wenig Challenge korridort hat. Was denkst du dazu?
+[09:47]MΛΉΛM: Du hast natürlich recht, Matthias. Genau das ist ja auch ein Teil des Kernproblems.
+
+Was ich gerade nicht ausreichend beachtet habe, ist, dass wir bereits ein Skill-System haben. Wenn wir jetzt für Out-of-Combat-Fähigkeiten einfach zusätzliche Boni vergeben, funktioniert das nicht mehr sauber mit dem bestehenden Skill-System zusammen.
+
+Grundsätzlich bleibt aber genau das der zentrale Punkt: Wir haben zwei unterschiedlich schnelle Progressionssysteme. Combat skaliert deutlich langsamer als unser allgemeines Skill-System. Das bedeutet, dass Combat eigentlich mehr Zwischenschritte oder feinere Abstufungen bräuchte.
+
+Das Problem ist: Beide Systeme basieren aktuell auf derselben Grundlage, sollen sich aber unterschiedlich verhalten.
+
+Mein Vorschlag war deshalb tatsächlich zu einfach gedacht. Da hast du recht. Er löst das Problem nicht sauber, sondern verschiebt es nur. Das eigentliche Problem bleibt bestehen: Combat entwickelt sich langsamer und braucht eine andere Progressionskurve als normale Skillchecks.
+[09:49]MΛΉΛM: Es ist schon erschreckend, wie durchdacht dann auf einmal DND wirkt, dass dieses, wir trennen das alles voneinander, halt auch seine Berechtigung hat.
+[09:57] 
+OP
+ Matthias: Naja wir können das einfach lösen, wenn du 10 DCs für den Kampf brauchst was absolut logisch und nachvollziehbar ist. (ich als nicht dm kann nicht einschätzen ob 8-10-15 oder 20 besser ist. wenn du da 10 sagst passt das).
+
+Die Einfache Lösung wäre nun auch im Roleplay auf 10 zu gehen.
+Unsere Attribute gehen bereits bis 10, ich würde diese dann statt 1 zu 2 einfach 1 zu 1 Skalieren.
+
+Bei den Würfeln mache ich dann mal die Mathematik. Grob überschlagen wird es aber darauf hinaus laufen, dass es Sinn macht, dass die Skills dann auch bis 10 gehen.
+Das heißt dann im Schnitt zu 50% 5 Erfolge, die restlichen 5 kommen dann aus Items + Fähigkeiten (Reichweite bei Waffen etc.)
+
+Die Frage ist, wäre das Schlimm, wenn das Roleplay auch mehr DCs hat? Ist das dann zu komplex oder ggf sogar doch gut da man mehr Varianz hat? 
+[10:00]MΛΉΛM: Ich kanns zum aktuellen stand nicht so ganz einschätzen
+[10:04] 
+OP
+ Matthias: Was wäre hilfreich um das abschätzen zu können ob im Roleplay auch bis DC10 gehen kann?
+[10:04]MΛΉΛM: Spielen 
+[10:05] 
+OP
+ Matthias: Ja dann muss man das mal machen. Ausem Bauch raus würde ich sagen ist kein Problem, da du bei DnD ja auch bis DC30 ein Schloss knacken kannst, oder jemanden überreden musst. Zumindest wenn ich Baldurs Gate zur Hand nehme, ob wir sowas schonmal Montags hatte nweiß ich nicht, ich glaube die Infernale Box mit DC 25 war bisher das höchste 
+[10:06] 
+OP
+ Matthias: DC10 ist dann halt schon eine starke komplexitätsreduktion
+[10:07]MΛΉΛM: Ist es tatsächlich nicht
+[10:07]MΛΉΛM: es gibt praktisch keinen DC unter 10 und über 20 ist extrem selten.
+[10:08]MΛΉΛM: und wenn du es noch granularer siehst sind die DCs für Skillchecks 10 13 15 17 20
+[11:02] 
+OP
+ Matthias: gibt es keine dc 5 checks? ich habe im kopf dass es in einer tabelle irgendwo im handbuch von 5 bis 30 geht.
+[11:03] 
+OP
+ Matthias: wobei das ja auch für unser system sprechen würde da 10.23,15,17 und 20 ja nur 5 stufen sind und wir dann 10 hätten.
+[11:04]MΛΉΛM: Theoretisch ja aber die Warscheinlichkeit ist so niedrig da würfelst du nicht mehr
+[11:07] 
+OP
+ Matthias: ist ja auch irgednwie wild, ich meine mit +0 in dem skill sinds ja immerhin 20% chance nicht zu schaffen.
+[11:09]MΛΉΛM: schon aber spieler schicken in der regel auch die Person vor der Gut darin ist oder wollen nur dinge machen in denen sie gut sind.
+[11:15] 
+OP
+ Matthias: ja da ist so ein problem. ich finde es tatsächlich spannender und erzählerisch oft besser, wenn man einen check macht in dem man nicht gut ist.
+sollte ich vielleicht nicht sagen, da du mir das zum nachteil auslegen wirst  
+aber wenn du von uns checks verlangst weil wir rp mäßig was machen ohne dass wir nach einem check "verlangt" haben. Sorgt oft für das geilere roleplay weil fehlschläge ja direkt dazu führen dass pläne nicht mehr funktionieren und umgedacht werden muss.

@@ -1,0 +1,583 @@
+Matthias: Ich habe hier mal das was du mir geschickt hast.
+
+Skills
+A. Action Skills
+Animal Handling
+Athletics
+Crafting
+Hacking
+Influence
+Inspire
+Treatment
+Piloting
+Aircraft
+Ground Vehicles
+Spaceships
+Search
+Stealth
+Streetwise
+Survival
+Thievery
+
+---
+
+B. Knowledge / Technical Skills
+Mit optionalen Spezialisierungen (kursiv)
+
+Arts
+Dance
+Literature
+Music
+Performance
+Visual Arts
+
+Culture
+Alien Cultures
+History
+Media
+Politics
+Religion
+Archeology
+
+Science
+Biology
+Chemistry
+Physics
+Xenology
+Medical Science
+
+Anomalies
+Psionics
+Phenomena
+Entities
+
+Technology
+Computing
+Electronics
+Networks
+Robotics
+
+Engineering
+Structural Systems
+Power Systems
+Weapons Systems
+
+---
+
+C. Combat Skills
+Character
+Close Combat
+Small Guns
+Big Guns
+Defense
+Tactics
+Psionics
+
+Ship
+Gunnery
+Systems
+(Piloting — siehe Section B, keine eigene Combat Skill)
+[16:31] 
+OP
+ Matthias: Ich würds wie folgt schneiden:
+
+Combat:
+Melee Combat
+Ranged Combat
+Defense
+Tactics
+Authority (Ansagen machen Space Barde)
+Psionics
+Treatment (behandlung/Heilung)
+Operations (Tech Manipulation, Sabotage, Gadgets)
+
+Ship:
+Command
+Systems
+Piloting
+Sensors
+Gunnery
+
+
+Knowledge:
+Science
+Humanities
+Mysticism
+Arts
+Economics
+
+Action:
+Technology
+Subterfuge
+Stealth
+Social
+Investigation
+Survival
+Animal Handling
+Atheltics
+
+
+Nun kommen unsere Bäume ins Spiel. Wir können A reine Bäume haben welche dann Spezialisieren und B Cross Bäume welche das Level in 2 Skills erfordern. Der Führende Skill wird dabei gewürfelt, der Sekundäre Skill entscheidet aber über Effekte.
+
+
+Bsp:
+Melee + Arts = Fechten
+Melee + Stealth/Subterfuge = Schurkenskills
+Melee + Psionics = Psionische Klingen
+Melee + Athletics = Schwere Waffen
+
+Ranged+ Atheletics = Schwere Waffen
+Ranged + Stealth = Schallgedämpft, Schwarfschützen
+Ranged + Technology = Schulterturm
+
+Authority + Animal Handling = Tiere steuern
+Authority + Social = Spacebarde
+Authority + Technology = Roboter Führung
+
+Treatment + Science = Krasser Doc
+Treatment + Technology = Kypernetic Doc
+Treatment + Psionics = Psychiater 
+
+Psionics + Treatment = Biokinese
+Psionics + Arts = Illusions
+Psionics + Authority = Kontrollieren
+
+Tactics + Technology = drone
+
+Operations + Technology = Hijacking von turrents, maschinene.
+Operations + Sciece = Gefahrgut experte
+Operations + Stealth = Stealth Saboteur
+
+
+usw. usw.
+[09:31]MΛΉΛM:
+Skills
+A. Action Skills
+Animal Handling
+Athletics
+Crafting
+Control
+Hacking
+Influence
+Inspire
+Treatment
+Piloting
+Search
+Stealth
+Streetwise
+Survival
+Thievery
+
+---
+
+B. Knowledge / Technical Skills
+Mit optionalen Spezialisierungen (kursiv)
+
+Arts
+Dance
+Literature
+Music
+Performance
+Visual Arts
+
+Culture
+Alien Cultures
+History
+Media
+Politics
+Religion
+Architecture
+Archaeology
+
+Science
+Biology
+Chemistry
+Physics
+Xenology
+Medical Science
+
+Anomalies
+Psionics
+Phenomena
+Entities
+
+Technology
+Computing ( Development, Betriebssysteme, Software)
+Electronics ( Hardware, Strompläne, Elektronik im allgemeinen)
+Networks ( Internet, Kommunikation, etc. )
+Robotics ( Roboter, Automatisierung )
+Engineering ( Große Anlagen, Fahrzeuge )
+---
+
+C. Combat Skills
+Character
+Close Combat
+Ranged Combat
+Shooting
+Defense
+Tactics
+Support
+Psionics
+
+Ship
+Combat Flight
+Command
+Systems
+Sensors
+Gunnery
+[09:32]MΛΉΛM: als Kompromiss vorschlag
+[10:05] 
+OP
+ Matthias: Mir ist noch nicht klar, was die Spezialisierungen sind. Sind das die Bäume? Davon bin ich bisher ausgegangen
+[10:20]MΛΉΛM: Wir hatten uns darauf geeinigt dass Spezialisierungen Hard Gates sind ohne die man keine Checks für Spezialisten machen kann.
+[10:40] 
+OP
+ Matthias: Ja aber in Form von Bäumen korrekt?
+[10:43] 
+OP
+ Matthias: Ich habe das so verstanden. Du hast Technology 2 und skillst in den Computing Tree und bist daher besser in Computing. Mal abgesehen davon wie das besser nun mechanisch umgesetzt ist. Wenn ich aber was mit Computern mache würfele ich weiterhin den Technology Skill. Es ist sozusagen eine passive Fähigkeit dort besser zu sein. 
+Da es hier nun aber explizit auftaucht bei Combat aber keine Bäume erwähnt werden, habe ich das Gefühl, dass es nun doch wieder was anderes ist. Daher die Frage. 
+[11:04]MΛΉΛM: Ne das hatte nichts mit den trees zu tun
+[11:04]MΛΉΛM: Zumindest hatte ich das nicht so gemeint
+[11:09] 
+OP
+ Matthias: Dann ist das was neues für mich  
+Der Stand vor den Trees war, dass wir iteriert haben ob man echte Subskills macht die auch auf dem Sheet sind und wie man das einbindet und da wir uns da bzgl Mathe nicht einige geworden sind da du bis Level 3 wolltest und 4 und 5 auf der Spezialisierung, ich aber eine Kombi logischer fand, damit einige Skills nicht mit 3 punkten direkt x subskills überproportional pushen haben wir das verworfen und gesagt wir machen es über Trees.
+[11:10]MΛΉΛM: Ich hatte dir einen Alternativ Vorschlag gennant und da hattest du gesagt dass wir das so machen können.
+[11:12] 
+OP
+ Matthias: Ich habe verstanden das geht nun über die Trees du hast halt x verschiedene. Aber dann erkläre nochmal wie das aussehen soll. Wenn es anders ist als das Main geht bis 3 und Sub geht 4 und 5 ist das ja vielleicht ein Weg.
+[11:12]MΛΉΛM: Ich hatte folgendes Beispiel genannt. Satt Boni oder Mali. Braucht der Spieler um spezialisiert Checks wie Astrophysikalische Berechnungen zu machen die Physik Spezialisierung sonst kann er gar nicht würfeln
+[11:13]MΛΉΛM: Allgemeine Checks
+
+Ein Charakter darf einen Skill immer ohne Spezialisierung verwenden, um:
+
+grundlegende Informationen zu erhalten
+Situationen grob einzuschätzen
+einfache oder offensichtliche Probleme zu erkennen
+
+Diese Checks liefern keine vollständigen oder präzisen Ergebnisse.
+
+Spezialisierte Checks
+
+Für komplexe, technische oder fachlich anspruchsvolle Aufgaben ist eine passende Spezialisierung erforderlich.
+
+Ohne die entsprechende Spezialisierung gilt:
+
+die Aufgabe kann nicht vollständig gelöst werden
+nur eine grobe Einschätzung ist möglich
+entscheidende Details bleiben unklar
+[11:14] 
+OP
+ Matthias: Aber es wird weiterhin auf den Main Skill gewürfelt oder? Im Grunde ist es also ein passiv, dass dir erlaubt dinge zu bekommen?
+[11:15]MΛΉΛM: Ja
+[11:15]MΛΉΛM: Aber nicht wirklich ein passiv
+[11:15]MΛΉΛM: Mehr eine Regel
+[11:18]MΛΉΛM: Somit schaffst du diversity ohne neue skills zu schaffen
+[11:19]MΛΉΛM: Könnte mir vorstellen dass du eine Spezialisierung für einen AP lernen kannst.
+[11:21]MΛΉΛM: Ich hab Angst dass du das jetzt auch wieder in die trees stecken möchtest 
+[11:24] 
+OP
+ Matthias: Verstanden ok. Es trifft auch nur auf Knowledge zu, was irgendwo logisch ist. Es macht knowledge dann aber auch besonders. Hätten wir nur die Exploration Pillar wäre das nun ein gutes System. Würde ich direkt 100% mit gehen.
+Mit den Actions kann ich was machen, eine Handlung dafür haben diese keine Spezialisierung.
+Mit Knowledge kann ich nur etwas erfahren, kann aber nichts machen (dafür hat es spezialisierung die tiefe bringt).
+
+Können wir gerne auch als AP lernen bin ich dann fein mit.
+
+Aber ich will folgendes gelöst haben damit es ein Guss ist:
+Wenn ich nun aber Kampf und Spaceship mit rein nehme, wie verhalten sich dann die Spezialisierungen?
+
+Ich glaube fast schon, dass Knowledge die Domänen sind von denen Thomas gesprochen hat ohne es vielleicht zu wissen, hast du fast die reale wissenschaftliche Aufteilung abgebildet: Naturwissenschaften, Sozial/Wirtschaftswissenschaften, Geisteswissenschaften, Angewandte Wissenschaften, Formalwissenschaften + Parawissenschaften.
+
+Wie passt das also zusammen?
+[11:30]MΛΉΛM: Wir hatten uns ja darauf verständigt dass RP und Combat komplett von einander getrennt wird. Deswegen gibt es da keine Beziehungen bisher
+[11:32]MΛΉΛM: Mir ist bewusst dass es da dopplungen geben kann das ist leider der saure Apfel in den man dabei beißen muss
+[11:45] 
+OP
+ Matthias: Psionics ist ja auch 2 mal da.
+
+könnte man es nicht dann doch irgendwie kombinieren dass wir actions und domänen/Knowledge haben?
+
+bei crafting wäre es dann in combination mit den domänen immer was anderes. mal roboter, mal chemisches gebräu oder medkit.
+
+dann könnte man das schiff halt rausschmeißen und wirklich die bestehenden skills nutzen. wenn ich also craft/treatment habe kann ich reparieren, habe ich zudem engineering kann ich im reaktor auch schlimme sachen flicken. habe ich es nicht ist die gruppe aber nicht hilflos.
+habe ich electronics kann ich wiederum zwar nicht den reaktor flicken aber der überladene computer vom emp geht.
+
+Sprich da Spieler immer aktionen und Knowledge haben können sie immer unterschiedlich gut was machen ohne dass man einen zweite Ebene in form von dedizierten Ship Skills braucht. Beim Kampf ähnlich.
+
+Würde die Knowledge skills dann nur ein wenig erweitern bzw dinge rüber schieben. Tactic müsste dann rüber das ist keine Handlung sondern Wissen. Mit untergruppen wie z.b. Warfare
+[11:56]MΛΉΛM: Also keine Trennung mehr?
+[11:58]MΛΉΛM: Hast du 15 min für nen call? Das wir das
+Eben fest machen können? Gerne können wir es auch so machen wie du sagst aber würde es gerne nochmal durchsprechen.
+[12:04] 
+OP
+ Matthias: kann gerade nicht telen.
+
+ja und nein.
+Trennung zwischen Aktion, also was ich mache.
+Ich Suche was, Ich baue was, ich repariere was.
+
+Und dem Kontext. Ich Scanne eine Raumanomalie. Search + Science Physics.
+Ich Suche was in einer Ruine: Search + Culture Archeology.
+
+Ich muss gestehen das hat vorteile
+wir definieren grundlegende Aktionen was man macht. habe ich skill in der aktion kann ich die machen.
+über Domänen wird es modifiziert bzw erweitert. ok ich kann craften und bin handwerklich geschickt aber ich habe noch nie ein musikinstrument(arts) gebaut, soll ich jedoch ein tomatenhaus bauen(engineering?) mache ich das problemlos.
+
+Offen ist natürlich wie wir das würfeln. Würfelt man dann 10 Würfel oder was anderes. Aber ads möchte ich erstmal außen vor lassen.
+
+Piloting fällt weg. Action ist steuern. über knowledge wird modifiziert ob es ein Roboter, Drohne, oder Schiff ist.
+
+=> wir müssen halt die Knowledge sachen leicht erweitern bzw dinge rüber schieben.
+
+Ich sehe 2 Vorteile. Ich habe Skill in der Aktion ich kann was machen. Ich habe Skill in der Hauptdomäne, es wird besser. Aber ohne Spezialisierung in der Domäne komme ich nie wirklich tief.
+
+Aber, es gibt nie eine harte Barriere für die Spieler. Der große Kritikpunkt beim Schiff war nicht das grundlegende Design was die Spieler machen. Dass einer Fähigkeiten vergibt, einer Energie umleitet etc. Das wurde gut angenommen, aber dass man gezwungen ist einen extra Skill zu picken.
+
+Das wäre damit gelöst und es würde sogar wirklich sinn machen mal zu rotieren. Weil wenn der am Scanner Physikass ist, man aber gerade eine Psionische Entität auf dem Schirm hat, sollte der mit Anomalies(Psionics) hin.
+
+Wobei ich dein Mysticism besser fand. Ein Wurmloch ist auch eine Anomalie aber eher Science Physics. Aber wenns dir wichtig ist können wir es bei Anomalies lassen ist nur eine Anmerkung dass für mich Mysticism kräftiger gewirkt hat.
+[12:05]MΛΉΛM: Ja dieses Kombinations ding finde ich nicht so geil darüber wollte ich aber nochmal extra diskutieren
+[12:10] 
+OP
+ Matthias: hä genau das war meine Message von 11:45 und das wolltest du fest machen 
+wie hast du das denn verstanden mit der Aufteilung Aktion und Domäne?
+Angenommen ich bin Gott im Reparieren repair 5 oder crafting je nachdem wo du das siehst. Kann ich dann einen schweren Reaktorschaden ohne Engineering Spezialisierung reparieren?
+[12:12]MΛΉΛM: ich dachte du meinst dass wir es generell zwischen Knowledge und Action aufteilen
+[12:13]MΛΉΛM: ich habe keine ahnung was Domänen sind matthias ich war gestern ja recht früh raus
+[12:14]MΛΉΛM: Das müsstest du mir nochmal seperat erklären
+[12:18] 
+OP
+ Matthias: Knowledge ist das. Anderes Wort. Moment mache Pause und komme
+[12:18]MΛΉΛM: Kann ich dann einen schweren Reaktorschaden ohne Engineering Spezialisierung reparieren?
+
+Die Antwort ist nicht mit einem Skillcheck
+[14:29] 
+OP
+ Matthias: Mal sehr wild gesponnen.
+
+Actions:
+Analyze: Informationen und Muster auswerten, Wissen abrufen.
+Channel: Psionische Kräfte lenken und einsetzen.
+Control: Systeme, Fahrzeuge, laufende Prozesse.
+Craft: etwas neues bauen oder erschaffen.
+Defend: Schaden vermeiden oder reduzieren.
+Hide: unendteckt bleiben.
+Influence: Verhalten, Emotionen oder Zustand anderer gezielt verändern.
+Move: Fortbewegung.
+Operate: Feinmotorische Eingriffe an Objekten.
+Repair: etwas Defektes wiederherstellen.
+Search: aktiv Informationen oder Objekte suchen.
+Strike: Nahkampfangriff.
+Shoot: Fernkampfangriff.
+Support: andere aktiv unterstützen.
+ 
+[23:03]MΛΉΛM:
+A. Action Skills
+Animal Handling
+Athletics
+Crafting
+Control
+Hacking
+Influence
+Inspire
+Treatment
+Piloting
+Search
+Stealth
+Streetwise
+Survival
+Thievery
+
+---
+
+B. Knowledge / Technical Skills
+Mit optionalen Spezialisierungen (kursiv)
+
+Arts
+Dance
+Literature
+Music
+Performance
+Visual Arts
+
+Culture
+Alien Cultures
+History
+Media
+Politics
+Religion
+Architecture
+Archaeology
+
+Science
+Biology
+Chemistry
+Physics
+Xenology
+Medical Science
+
+Warfare
+Tactics
+Biology
+Biology
+Biology
+
+Anomalies
+Psionics
+Phenomena
+Entities
+
+Technology
+Computing ( Development, Betriebssysteme, Software)
+Electronics ( Hardware, Strompläne, Elektronik im allgemeinen)
+Networks ( Internet, Kommunikation, etc. )
+Robotics ( Roboter, Automatisierung )
+Engineering ( Große Anlagen, Fahrzeuge )
+---
+
+C. Combat Skills
+Character
+Close Combat
+Ranged Combat
+Shooting
+Defense
+Tactics
+Support
+Psionics
+
+Ship
+Combat Flight
+Command
+Systems
+Sensors
+Gunnery
+[00:44] 
+OP
+ Matthias: Analyze
+Influence
+Control
+Craft
+Move
+Hide
+Defend
+Attack
+Operate
+Channel
+Support
+[00:19]MΛΉΛM:
+Skills
+A. Action Skills
+Animal Handling
+Athletics
+Strength
+Endurance
+Channel
+Perception
+Influence
+Manipulation
+Projection
+Craft
+Mechanical
+Chemical
+Improvised
+Operate
+Vehicles
+Systems
+Drones
+Defend
+Evasion
+Cover
+Influence
+Negotiation
+Leadership
+Manipulation
+Investigate
+Crime Scenes
+Technology
+Environment
+Treatment
+Emergency Care
+Surgery
+Shoot
+Sidearms
+Long Guns
+Heavy Weapons
+Stealth
+Urban
+Wilderness
+Strike
+Unarmed
+Blades
+Blunt Weapons
+Survival
+Urban
+Wilderness
+Extreme Environments
+Thievery
+Lockpicking
+Pickpocketing
+Hacking
+
+---
+
+B. Knowledge / Technical Skills
+Mit optionalen Spezialisierungen (kursiv)
+
+Arts
+Dance
+Literature
+Music
+Performance
+Visual Arts
+Culture
+History
+Religion
+Architecture
+Archaeology
+Power
+Politics
+Economics
+Law
+Criminal Underground
+Society
+Social Norms
+Media
+Public Behavior
+Science
+Biology
+Chemistry
+Physics
+Xenology
+Medical Science
+Warfare
+Tactics
+Strategy
+Military Systems
+Anomalies
+Psionics
+Phenomena
+Entities
+Technology
+Computing (Development, Betriebssysteme, Software)
+Electronics (Hardware, Strompläne, Elektronik im Allgemeinen)
+Networks (Internet, Kommunikation, etc.)
+Robotics (Roboter, Automatisierung)
+Engineering (Große Anlagen, Fahrzeuge)
+
+--- 
+[15:01]MΛΉΛM: Ist dass dann ok isch?
+[15:22] 
+OP
+ Matthias: Ich denke es geht in die richtige Richtung. Das mit den Aktionen losgelöst vom Wissen ist jedenfalls nix das habe ich jetzt nach Stunden schieben entgültig gedanklich verworfen. 
+Klar wenn ich z.B. Arts geskillt habe, weiß ich dann nur was darüber oder kann ich direkt auch Tanzen, Singen, Instrument spielen etc? Aber im Grunde bekommt man das ggf auch mit der Spezialisierung gelöst. Apropos Arts, Performance macht keinen Sinn. Ein Musikstück aufführen ist Performance, Tanzen auch und eine Vorlesung ggf auch. Ich denke an der Stelle war Acting (Schauspielern) gemeint?
+[15:25]MΛΉΛM: Ja das passt besser mit acting
+[15:27]MΛΉΛM: Ich würd im RP die Spezialisierungen weiter so machen dass man immer würfeln kann aber nur mit der passenden Spezialisierung bekommt man alle Infos. Das ist aber nicht immer so. Und manche skills brauchen auch nicht wirklich eine Spezialisierung
+[15:28]MΛΉΛM: Ich meine skillchecks beim letzten Satz
+[15:29]MΛΉΛM: Denke mal das mit den Spezialisierungen ist eher die Ausnahme als die Regel
+[15:30] 
+OP
+ Matthias: Es geht nicht um die Infos. Ich höre ein Lied und will es erkennen OK das ist Arts(Music).
+Aber ich will Musik machen um eine Menge abzulenken. Das ist Arts (Music) aber kann ich auch ohne die Spezialisierung ein Instrument spielen?
+Das ist die Frage.
+Denn wenn nein,  heißt das mit Arts 1-2 kannst du nichts machen. Ist die Antwort ja, heißt es du kannst immer Tanzen, Singen, Musizieren etc. 
