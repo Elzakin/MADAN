@@ -1,12 +1,9 @@
 # Projekt Madan
 
-Willkommen im Arbeitsvault. Starte bei [[00_Einstieg/Start-hier]].
+Willkommen im Arbeitsvault. Starte bei [[Einstieg/Einstieg]].
 
-
-
-- [[00_Einstieg/Importstatus-und-Luecken]]
-- [[01_Quellen/Quellenregister]]
-- [[02_Regelwerk/Charaktererschaffung]]
-- [[02_Regelwerk/Kernregeln]]
-- [[03_Systemdesign/Skills/Katalog]]
-- [[06_Widersprueche/Widerspruchsuebersicht]]
+- [[Regelwerk/Regelwerk|Regelwerk]]
+- [[Welt/Welt|Welt]]
+- [[Glossar/Glossar|Glossar]]
+- [[Werkstatt/Werkstatt|Werkstatt]]
+- [[Archiv/Archiv|Archiv]]

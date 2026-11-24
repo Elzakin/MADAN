@@ -1,20 +1,28 @@
-# Eigenes TTRPG - Arbeitsvault
+# Eigenes TTRPG – Arbeitsvault
 
-Dieser Vault sammelt die Quellen und die quellengebundenen Auswertungen fuer Projekt Madan. Der Einstieg in die sortierte Ablage ist [[00_Einstieg/Start-hier]].
+Dieser Vault sammelt das Regelwerk, die Spielwelt und die quellengebundenen Auswertungen für Projekt Madan. Der Einstieg in die sortierte Ablage ist [[Einstieg/Einstieg]].
+
+## Hauptbereiche
+
+- [[Regelwerk/Regelwerk|Regelwerk]]
+- [[Welt/Welt|Welt]]
+- [[Glossar/Glossar|Glossar]]
+- [[Werkstatt/Werkstatt|Werkstatt]]
+- [[Archiv/Archiv|Archiv]]
 
 ## Arbeitsstand
 
-- Der DOCX-Regelentwurf liegt als vollstaendige Textextraktion vor; quellennahe Themen- und Regelnotizen sind begonnen.
+- Der DOCX-Regelentwurf liegt als vollständige Textextraktion vor; quellennahe Themen- und Regelnotizen sind begonnen.
 - Die Website-Dateien zum Spacer-Bogen und eine separate Prototyp-Auswertung liegen im Vault.
-- Der Skill-Chat liegt vollstaendig im Quellenordner. Skills/Begriffe sind als einzelne Kandidatennotizen angelegt; die Taxonomie bleibt offen.
-- Die XLSX-Datei "Projekt Madan Calculations" ist noch nicht ausgelesen.
-- Erkannte Konflikte stehen in [[06_Widersprueche/Widerspruchsuebersicht]].
+- Zwei Skill-Chats liegen vollständig unter `Archiv/Quellen/Discord` und sind separat ausgewertet.
+- Die veralteten, unbestätigten Skill-Kandidatenseiten wurden auf ausdrücklichen Wunsch entfernt.
+- Die XLSX-Datei „Projekt Madan Calculations“ ist noch nicht ausgelesen.
+- Erkannte Konflikte stehen unter [[Werkstatt/Widersprüche/Widersprüche]].
 
-## Grundsaetze
+## Grundsätze
 
-- Quellen bleiben unveraendert erhalten. Auswertungen enthalten Fundstellen.
-- Es darf kein sachlicher Quelleninhalt stillschweigend entfallen; Unsicherheiten und Quellenluecken werden markiert.
-- Discord gilt tendenziell als aktueller, aber nicht automatisch als endgueltige Entscheidung.
-- Vorlagen fuer wiederkehrende Notiztypen liegen unter [[00_Einstieg/Start-hier#Vorlagen]].
+- Quellen bleiben unverändert erhalten. Auswertungen enthalten genaue Fundstellen.
+- Sachlicher Quelleninhalt darf nicht stillschweigend entfallen; Unsicherheiten und Quellenlücken werden markiert.
+- Discord gilt tendenziell als aktueller, aber nicht automatisch als endgültige Entscheidung.
+- Wiederkehrende Notiztypen liegen unter [[Werkstatt/Vorlagen/Vorlagen|Vorlagen]].
 - Verbindliche Arbeitsregeln stehen in [[AGENTS]].
-- Zwei getrennte Discord-Transkripte zum Skill-System liegen jetzt unter `01_Quellen/Discord` und sind separat ausgewertet.
