@@ -15,9 +15,9 @@ abgestimmt: 2026-11-24
 - Entities
 - Distortions
 - Relics
-- Psionics
+- Psionic Phenomena
 
-Weitere Domains sind möglich und noch nicht benannt (`+` hinter `Psionics`).
+Weitere Domains sind möglich und noch nicht benannt (`+` in der bestätigten Liste).
 
 ## Regelbezug
 

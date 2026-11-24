@@ -2,7 +2,7 @@
 type: skill
 category: Fertigkeit
 status: abgestimmter entwurf
-domains-status: vorschlag
+domains-status: abgestimmter entwurf
 abgestimmt: 2026-11-24
 ---
 
@@ -10,21 +10,27 @@ abgestimmt: 2026-11-24
 
 > “You climbed the fence instead of finding the gate because thinking is cardio for nerds.”
 
-## Bisher genannte Domains
+## Grundanwendungen
 
-Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
+Athletics deckt ohne Domain gewöhnliches Laufen, Springen, Klettern, Schwimmen, Balancieren und allgemeine körperliche Bewegung ab. Ungewöhnlich schwierige Ausführungen werden über die Schwierigkeitsstufe abgebildet.
 
-- Climbing
-- Running
-- Swimming
-- Jumping
+## Domains
+
 - Acrobatics
-- Physical Endurance
-- Stamina
-- Balance
+- Endurance
+- Might
 
-> [!warning] Offene Abgrenzung
-> Climbing, Running und Jumping sind mögliche Grundanwendungen von Athletics. Ihre Einordnung als Domains ist noch offen.
+### Acrobatics
+
+Komplexe Körperkontrolle, Turnen, kontrollierte Stürze, Parkour und extremes Balancieren.
+
+### Endurance
+
+Lang anhaltende Belastung, Erschöpfungsresistenz, Gewaltmärsche und körperliches Durchhalten.
+
+### Might
+
+Schweres Heben und Tragen, Drücken, Ziehen, Festhalten und außergewöhnliche Kraftakte. Der spätere Skill Tree kann bis zu übermenschlichen Kraftakten führen.
 
 ## Regelbezug
 

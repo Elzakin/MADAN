@@ -2,7 +2,7 @@
 type: skill
 category: Fertigkeit
 status: abgestimmter entwurf
-domains-status: vorschlag
+domains-status: abgestimmter entwurf
 abgestimmt: 2026-11-24
 ---
 
@@ -10,15 +10,27 @@ abgestimmt: 2026-11-24
 
 > “If there’s a blinking light and a joystick, you will absolutely press the wrong button with confidence.”
 
-## Bisher genannte Domains
+## Grundanwendungen
 
-Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
+Control deckt ohne Domain die Fernsteuerung bekannter Geräte, einfacher Drohnen und gewöhnlicher Maschinen unter normalen Bedingungen ab. Die steuernde Figur bleibt räumlich vom kontrollierten Objekt getrennt und bewegt sich nicht mit ihm.
 
-- Drone Control
-- Vehicle Handling
-- Turret Operation
-- Machine Control
-- Remote Systems
+## Domains
+
+- Drone Operations
+- Remote Vehicles
+- Remote Weapon Systems
+
+### Drone Operations
+
+Spezialisierte Drohnen, autonome Einheiten und Drohnenschwärme führen.
+
+### Remote Vehicles
+
+Boden-, Luft-, Wasser- oder Raumfahrzeuge aus der Distanz steuern.
+
+### Remote Weapon Systems
+
+Geschütztürme und andere ferngesteuerte Waffensysteme bedienen. Ob Angriffe damit über Control oder Shoot abgewickelt werden, ist noch offen.
 
 ## Regelbezug
 

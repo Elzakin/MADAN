@@ -7,10 +7,8 @@ status: entwurf
 
 - [[Fertigkeiten/Fertigkeiten|Fertigkeiten]] - Stufen, Steigerungskosten und einzelne Skills.
 - [[Würfel-und-Fertigkeitsproben]] - W6, Risiko, Proben und Zielwerte.
-- [[Aktionen-und-Aktionspunkte]] - Basisaktionen und AP.
+- [[Combat/Combat|Combat]] - Kampfablauf, Aktionen, Deckung und Zustände.
 - [[Spielmodi-und-Gefahren]] - Erkundung, Gefahrensystem und belegte Lücken.
-- [[Gefechtsablauf]] - Gruppen, Runden und Zugfolge; Kampfregeln sind unvollständig.
-- [[Zustände]] - Zustandsregeln und Stufen.
 - [[Verteidigung-und-Zustandsressourcen]] - Abschirmung, Psyche, Stabilität und Schilde.
 
 > [!warning] Ausgangsmaterial unvollstaendig

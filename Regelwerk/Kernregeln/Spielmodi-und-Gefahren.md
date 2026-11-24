@@ -8,7 +8,7 @@ sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 
 ## Spielmodi
 
-Der Entwurf unterscheidet Erkundungsmodus und Gefechtsmodus. Im Erkundungsmodus (z.B. Ruinen untersuchen, mit Figuren sprechen) bestimmt Mission Control den Zeitfortschritt und Aktionen koennen frei verwendet werden. Der Gefechtsmodus wird in kritischen Situationen wie Kampf oder Sauerstoffverlust ausgerufen; dort gibt es Gruppen, Runden, Zuege und Aktionspunkte. Details unter [[Aktionen-und-Aktionspunkte]].
+Der Entwurf unterscheidet Erkundungsmodus und Gefechtsmodus. Im Erkundungsmodus (z.B. Ruinen untersuchen, mit Figuren sprechen) bestimmt Mission Control den Zeitfortschritt und Aktionen koennen frei verwendet werden. Der Gefechtsmodus wird in kritischen Situationen wie Kampf oder Sauerstoffverlust ausgerufen; dort gibt es Gruppen, Runden, Zuege und Aktionspunkte. Details unter [[Combat/Aktionen-und-Aktionspunkte]].
 
 ## Soziale Interaktion und Erkundung
 

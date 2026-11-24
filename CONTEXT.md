@@ -34,4 +34,27 @@ Ein grundlegender Kompetenzbereich eines Charakters, dem konkrete Domains zugeor
 _Avoid_: Skill
 
 **Domain**:
-Eine mechanisch relevante Spezialisierung innerhalb einer Fertigkeit und ein möglicher Zugang zu einem Skill Tree. Bestehende Entwürfe verwenden den Begriff teilweise auch für bloße Anwendungsfälle; diese Abgrenzung ist noch offen.
+Eine mechanisch relevante Spezialisierung innerhalb einer Fertigkeit und der Zugang zu einem zugehörigen Skill Tree. Eine Domain gibt selbst keinen Würfelbonus; konkrete Boni und Sonderfähigkeiten stammen aus dem Skill Tree.
+
+**Skill Tree**:
+Die Fortschrittsstruktur einer Domain, über die konkrete Boni und Sonderfähigkeiten erworben werden.
+
+**Crafting of Electronic Devices**:
+Eine wählbare Electronics-Domain für das Entwerfen und Herstellen neuer elektronischer Geräte ohne vorliegenden Bauplan, einschließlich möglicher Energiewaffen. Reparatur und Zusammenbau nach bekanntem Aufbau gehören zur Grundfertigkeit; konkrete Herstellungsanforderungen sind noch offen.
+
+**Mechanical Crafting**:
+Eine wählbare Engineering-Domain für das Entwerfen und Herstellen neuer mechanischer Gegenstände ohne vorliegenden Bauplan, etwa Nahkampfwaffen. Reparatur und Zusammenbau nach bekanntem Aufbau gehören zur Grundfertigkeit.
+
+**Psionics**:
+Die Grundfertigkeit für die aktive Nutzung und Kontrolle psionischer Kräfte.
+_Avoid_: Channel
+
+**Psionic Phenomena**:
+Die Mysteries-Domain für das Wissen über sowie das Erkennen und Untersuchen psionischer Phänomene.
+_Avoid_: Psionics als Mysteries-Domain
+
+**Piloting**:
+Die Grundfertigkeit zum Fahren oder Fliegen eines Fahrzeugs, in dem sich die steuernde Figur befindet und mit dem sie sich bewegt.
+
+**Control**:
+Die Grundfertigkeit zur Fernsteuerung eines räumlich getrennten Objekts oder Systems. Die steuernde Figur bewegt sich nicht mit dem kontrollierten Objekt.

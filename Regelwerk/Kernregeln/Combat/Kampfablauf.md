@@ -4,7 +4,7 @@ status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 ---
 
-# Gefechtsablauf
+# Kampfablauf
 
 ## Ausloeser und Gruppen
 

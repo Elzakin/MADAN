@@ -10,9 +10,18 @@ abgestimmt: 2026-11-24
 
 > “Explaining why civilizations collapse since civilization was invented.”
 
-## Bisher genannte Domains
+## Mögliche Domains
 
-Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
+Als mögliche Domains wurden im Arbeitsgespräch Government, Economics, Factions und Media genannt. Ob sie eigene Skill Trees tragen und welche Anwendungen bereits Culture selbst abdeckt, ist noch offen.
+
+- Government
+- Economics
+- Factions
+- Media
+
+## Ältere Vorschlagsliste
+
+Die folgende Liste stammt aus einem früheren Entwurf und bleibt zur Nachvollziehbarkeit erhalten. Ihre Einträge sind durch die vier möglichen Domains nicht einzeln bestätigt oder endgültig verworfen.
 
 - Politics
 - Economics

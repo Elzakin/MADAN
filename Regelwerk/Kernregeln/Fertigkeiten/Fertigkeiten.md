@@ -49,26 +49,26 @@ hideFolderOverview: false
 useWikilinks: true
 ```
 <span class="fv-link-list-start" id="bd614695-ea16-450d-bd1c-b37b722132a3"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Arts.md|Arts]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Athletics.md|Athletics]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Channel.md|Channel]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Computing.md|Computing]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Control.md|Control]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Culture.md|Culture]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Defend.md|Defend]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Electronics.md|Electronics]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Engineering.md|Engineering]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Influence.md|Influence]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Investigate.md|Investigate]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Life Science.md|Life Science]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Medicine.md|Medicine]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Mysteries.md|Mysteries]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Physical Science.md|Physical Science]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Piloting.md|Piloting]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Shoot.md|Shoot]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Stealth.md|Stealth]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Streetwise.md|Streetwise]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Strike.md|Strike]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Survival.md|Survival]] <span class="fv-link-list-item"></span>
-- [[MADAN/Regelwerk/Kernregeln/Fertigkeiten/Thievery.md|Thievery]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Arts.md|Arts]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Athletics.md|Athletics]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Computing.md|Computing]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Control.md|Control]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Culture.md|Culture]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Defend.md|Defend]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Electronics.md|Electronics]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Engineering.md|Engineering]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Influence.md|Influence]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Investigate.md|Investigate]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Life Science.md|Life Science]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Medicine.md|Medicine]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Mysteries.md|Mysteries]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Physical Science.md|Physical Science]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Piloting.md|Piloting]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Psionics.md|Psionics]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Shoot.md|Shoot]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Stealth.md|Stealth]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Streetwise.md|Streetwise]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Strike.md|Strike]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Survival.md|Survival]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Thievery.md|Thievery]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="bd614695-ea16-450d-bd1c-b37b722132a3"></span>
