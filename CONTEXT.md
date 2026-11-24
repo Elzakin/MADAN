@@ -5,7 +5,7 @@ Projekt Madan verbindet ein spielbares Pen-&-Paper-Regelwerk mit einem dazugehö
 ## Inhaltsstruktur
 
 **Regelwerk**:
-Die buchartig aufgebaute, spielbare Darstellung der Regeln mit Kapiteln wie Kernregeln und Charaktererschaffung.
+Die buchartig aufgebaute, spielbare Darstellung der Regeln mit Kapiteln wie Kernregeln und Charaktererschaffung. Unter `Regelwerk/Kernregeln/Fertigkeiten` stehen die Fertigkeitsregeln als Folder Note und die einzelnen Skills als untergeordnete Notizen.
 
 **Glossar**:
 Der Nachschlagebereich für ausführliche Einzeleinträge, auf die Übersichts- und Regelseiten verweisen.

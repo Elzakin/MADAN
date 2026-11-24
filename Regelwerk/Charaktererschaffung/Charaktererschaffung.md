@@ -9,7 +9,7 @@ Die Quellen enthalten einzelne Werte, Kosten, Ausruestung und einen statischen B
 
 - [[Start-und-Verteilung]] - was bei der Spacer-Erstellung belegt ist und was fehlt.
 - [[Primärwerte]] - fünf Werte und Steigerungskosten.
-- [[Regelwerk/Kernregeln/Fertigkeiten|Fertigkeiten]] - Fertigkeitsstufen, Skillpunkte und einzelne Fertigkeiten.
+- [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]] - Fertigkeitsstufen, Skillpunkte und einzelne Fertigkeiten.
 - [[Abgeleitete-Werte]] - Bewegung, Ressourcen und Verteidigung.
 - [[Verletzungen-und-Heilung]] - Verletzungsfolgen.
 - [[Fähigkeiten-und-Talente]] - aktive Fähigkeiten und passive Talente.

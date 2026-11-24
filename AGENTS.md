@@ -30,7 +30,7 @@
 - `Einstieg/`: zentraler Startpunkt und Navigation durch den Vault.
 - `Regelwerk/`: buchartig aufgebaute, ausformulierte und spielbare Regeln. Übersichtsseiten führen von Grundkapiteln zu Detailthemen.
 - `Welt/`: das Universum des Spiels mit Geschichte, Orten, Kulturen, Fraktionen und Personen.
-- `Glossar/`: ausführliche Einzeleinträge zu nachschlagbaren Begriffen. Bestätigte einzelne Fertigkeiten liegen unter `Glossar/Fertigkeiten`.
+- `Glossar/`: ausführliche Einzeleinträge zu nachschlagbaren Begriffen. Fertigkeiten und ihre einzelnen Skill-Notizen liegen gemeinsam unter `Regelwerk/Kernregeln/Fertigkeiten`.
 - `Werkstatt/`: aktive Entwürfe, Auswertungen, Vorlagen und offene Widersprüche. Inhalte hier gelten nicht automatisch als beschlossene Regeln.
 - `Archiv/Quellen/`: unveränderte Originale, Exporte und quellennahe Dokumente.
 - `Archiv/Bilder/`: Bilder und andere visuelle Medien des Vaults.
@@ -39,7 +39,7 @@
 
 - Jeder strukturtragende Ordner erhält im selben Ordner eine gleichnamige Markdown-Datei als Folder Note, zum Beispiel `Regelwerk/Regelwerk.md`.
 - Folder Notes dienen als Einstieg und Inhaltsverzeichnis ihres Ordners.
-- Regelwerksseiten erklären Kategorien und Mechaniken. Sie verlinken für ausführliche Einzeleinträge in das Glossar.
+- Regelwerksseiten erklären Kategorien und Mechaniken. Fertigkeiten bilden einen eigenen Ordner unter `Regelwerk/Kernregeln/Fertigkeiten`: Die gleichnamige Folder Note enthält Regeln und Übersicht, die einzelnen Skills liegen direkt darunter. Andere nachschlagbare Begriffe können im Glossar erläutert werden.
 - Glossareinträge verlinken zurück auf die Regelwerksseite, die ihre Anwendung erklärt.
 - Aktualisiere bei Verschiebungen und Umbenennungen sämtliche Wikilinks, Markdown-Links und relevanten Frontmatter-Pfade.
 

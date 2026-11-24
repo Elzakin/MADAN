@@ -40,4 +40,4 @@ Die Property `status` beschreibt den Bearbeitungs- und Entscheidungsstand. In de
 
 Bisherige Import- und Bearbeitungsstatus anderer Notizen bleiben zusaetzlich verfuegbar. Quelle/Extraktion gibt wieder, was ein Dokument oder Entwurf enthaelt; ein Kandidat ist noch keine bestaetigte aktuelle Regel. `offen` bedeutet, dass Klaerung noetig oder eine Quelle unvollstaendig ist.
 
-Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[Regelwerk/Kernregeln/Fertigkeiten|Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.
+Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.

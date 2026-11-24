@@ -5,8 +5,7 @@ status: quellenextraktion
 
 # Kernregeln
 
-- [[Fertigkeiten]] - Stufen, Steigerungskosten und einzelne Fertigkeiten im Glossar.
-
+- [[Fertigkeiten/Fertigkeiten|Fertigkeiten]] - Stufen, Steigerungskosten und einzelne Skills.
 - [[Würfel-und-Fertigkeitsproben]] - W6, Risiko, Proben und Zielwerte.
 - [[Aktionen-und-Aktionspunkte]] - Basisaktionen und AP.
 - [[Spielmodi-und-Gefahren]] - Erkundung, Gefahrensystem und belegte Lücken.

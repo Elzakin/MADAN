@@ -20,4 +20,4 @@ status: entwurf
 
 ## Allgemeine Regeln
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten|Skills und Fertigkeiten]].
+Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
