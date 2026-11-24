@@ -1,13 +1,20 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: ungeprueft
+confirmed: 2026-11-24
 ---
 
 # Physical Science
 
+Physical Science ist eine bestätigte Grundfertigkeit.
+
 > “Turning ‘what if?’ into explosions since forever.”
 
-## Domains / Anwendungsbeispiele
+## Bisher genannte Domains
+
+Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
 
 - Physics
 - Chemistry
@@ -17,6 +24,6 @@ status: entwurf
 - Reactions
 - Laboratory Work
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]] und den offenen Klärungsfall [[Werkstatt/Widersprüche/Widersprüche#W-014]].

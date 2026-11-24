@@ -1,13 +1,20 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: ungeprueft
+confirmed: 2026-11-24
 ---
 
 # Piloting
 
+Piloting ist eine bestätigte Grundfertigkeit.
+
 > “Parallel parking, but the wall is an asteroid field and everyone dies if you fail.”
 
-## Domains / Anwendungsbeispiele
+## Bisher genannte Domains
+
+Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
 
 - Navigation
 - Spaceflight
@@ -16,6 +23,6 @@ status: entwurf
 - Flight Maneuvers
 - Travel Planning
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]] und den offenen Klärungsfall [[Werkstatt/Widersprüche/Widersprüche#W-014]].

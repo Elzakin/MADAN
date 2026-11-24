@@ -1,3 +1,6 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "showViewHeader": true,
+  "cssTheme": "Things",
+  "theme": "obsidian"
 }

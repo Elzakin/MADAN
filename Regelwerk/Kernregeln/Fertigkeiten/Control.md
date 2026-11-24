@@ -1,13 +1,20 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: ungeprueft
+confirmed: 2026-11-24
 ---
 
 # Control
 
+Control ist eine bestätigte Grundfertigkeit.
+
 > “If there’s a blinking light and a joystick, you will absolutely press the wrong button with confidence.”
 
-## Domains / Anwendungsbeispiele
+## Bisher genannte Domains
+
+Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
 
 - Drone Control
 - Vehicle Handling
@@ -15,6 +22,6 @@ status: entwurf
 - Machine Control
 - Remote Systems
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]] und den offenen Klärungsfall [[Werkstatt/Widersprüche/Widersprüche#W-014]].

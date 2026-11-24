@@ -1,22 +1,25 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: beschlossen
+confirmed: 2026-11-24
 ---
 
 # Arts
 
+Arts ist eine bestätigte Fertigkeit.
+
 > “Finally, a skill for emotionally damaged people with expensive hobbies.”
 
-## Domains / Anwendungsbeispiele
+## Domains
 
-- Music
 - Dance
-- Painting
+- Music
 - Acting
+- Visual Arts
 - Literature
-- Performance
-- Artistic Expression
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]].

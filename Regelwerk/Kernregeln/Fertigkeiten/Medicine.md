@@ -1,22 +1,27 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: beschlossen
+confirmed: 2026-11-24
 ---
 
 # Medicine
 
+Medicine ist eine bestätigte Fertigkeit.
+
 > “People trust you with surgery despite the fact you haven’t slept in 36 hours.”
 
-## Domains / Anwendungsbeispiele
+## Domains
 
 - First Aid
-- Surgery
-- Caretaking
-- Diagnostics
-- Pharmacology
-- Anatomy
-- Medical Knowledge
+- Recovery
+- Reconstruction
+- Pharmacy
+- Genetics
 
-## Allgemeine Regeln
+Die Bestätigung enthielt hinter `Genetics` ein `+`. Weitere Domains sind damit möglich, wurden aber noch nicht benannt.
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+## Regelbezug
+
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]].

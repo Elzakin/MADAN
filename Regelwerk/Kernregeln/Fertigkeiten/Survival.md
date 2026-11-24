@@ -1,13 +1,20 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: ungeprueft
+confirmed: 2026-11-24
 ---
 
 # Survival
 
+Survival ist eine bestätigte Grundfertigkeit.
+
 > “Nature wants you dead. You took that personally.”
 
-## Domains / Anwendungsbeispiele
+## Bisher genannte Domains
+
+Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
 
 - Hunting
 - Navigation
@@ -17,6 +24,6 @@ status: entwurf
 - Weather Reading
 - Tracking
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]] und den offenen Klärungsfall [[Werkstatt/Widersprüche/Widersprüche#W-014]].

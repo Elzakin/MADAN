@@ -1,20 +1,26 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: beschlossen
+confirmed: 2026-11-24
 ---
 
 # Mysteries
 
+Mysteries ist eine bestätigte Fertigkeit.
+
 > “Reality stopped making sense around you several sessions ago.”
 
-## Domains / Anwendungsbeispiele
+## Domains
 
-- Psionic Phenomena
-- Paranormal Events
-- Madan
-- Cosmic Anomalies
-- Unexplained Forces
+- Entities
+- Distortions
+- Relics
+- Psionics
 
-## Allgemeine Regeln
+Die Bestätigung enthielt hinter `Psionics` ein `+`. Weitere Domains sind damit möglich, wurden aber noch nicht benannt.
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+## Regelbezug
+
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]].

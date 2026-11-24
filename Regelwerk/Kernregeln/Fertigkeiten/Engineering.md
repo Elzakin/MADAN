@@ -1,13 +1,20 @@
 ---
 type: skill
-status: entwurf
+category: Fertigkeit
+status: beschlossen
+domains-status: ungeprueft
+confirmed: 2026-11-24
 ---
 
 # Engineering
 
+Engineering ist eine bestätigte Grundfertigkeit.
+
 > “Half genius, half duct tape, somehow legally employed.”
 
-## Domains / Anwendungsbeispiele
+## Bisher genannte Domains
+
+Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
 
 - Construction
 - Repairs
@@ -17,6 +24,6 @@ status: entwurf
 - Infrastructure
 - Improvised Technology
 
-## Allgemeine Regeln
+## Regelbezug
 
-Stufen und Steigerungskosten: [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]].
+Siehe [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten]] und den offenen Klärungsfall [[Werkstatt/Widersprüche/Widersprüche#W-014]].
