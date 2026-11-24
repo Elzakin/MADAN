@@ -2,7 +2,6 @@
 
 Willkommen im Arbeitsvault. Starte bei [[00_Einstieg/Start-hier]].
 
-Kaffee
 
 
 - [[00_Einstieg/Importstatus-und-Luecken]]
