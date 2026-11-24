@@ -1,12 +1,20 @@
 ---
 type: rule-extraction
-status: quellenentwurf
+status: teilweise-bestaetigt
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 ---
 
 # Fertigkeiten
 
 Bestätigte einzelne Fertigkeiten werden künftig unter [[Glossar/Fertigkeiten/Fertigkeiten]] ausführlich beschrieben.
+
+## Bestätigter Stand
+
+Am 24. November 2026 wurden folgende Fertigkeiten und Domains ausdrücklich bestätigt:
+
+- [[Glossar/Fertigkeiten/Mysteries|Mysteries]]: Entities, Distortions, Relics, Psionics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
+- [[Glossar/Fertigkeiten/Medicine|Medicine]]: First Aid, Recovery, Reconstruction, Pharmacy, Genetics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
+- [[Glossar/Fertigkeiten/Arts|Arts]]: Dance, Music, Acting, Visual Arts, Literature.
 
 ## Skill-Stufen
 
@@ -21,7 +29,9 @@ Bestätigte einzelne Fertigkeiten werden künftig unter [[Glossar/Fertigkeiten/F
 
 Skills beginnen laut DOCX bei 0. Im Abenteuer koennen sie mit Skillpunkten gelernt und gesteigert werden. Gegenstands- und Effektboni werden neben dem Skill notiert und veraendern die Erfolge beim Wurf. Ein Startbudget an Skillpunkten ist nicht angegeben.
 
-## Skills
+## Frühere Quellenliste
+
+Die folgende Liste dokumentiert einen älteren Quellenstand. Bei Mysteries, Medicine und Arts gilt der oben verlinkte bestätigte Stand; abweichende frühere Domains bleiben hier aus Gründen der Quellentreue erhalten.
 **Athletics**  
         _“You climbed the fence instead of finding the gate because thinking is cardio for nerds.”_ Domains: Climbing, Running, Swimming, Jumping, Acrobatics, Physical Endurance, Stamina, Balance
     

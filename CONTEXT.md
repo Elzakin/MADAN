@@ -26,3 +26,12 @@ Zwei oder mehr belegte Aussagen, die sich ohne gemeinsame Klärung nicht zu eine
 **Folder Note**:
 Eine gleichnamige Übersichtsseite innerhalb eines Ordners, die als dessen Einstieg und Inhaltsverzeichnis dient.
 _Avoid_: Index Page
+
+## Regelbegriffe
+
+**Fertigkeit**:
+Ein bestätigter grundlegender Kompetenzbereich eines Charakters, dem konkrete Domains zugeordnet werden können.
+_Avoid_: Skill
+
+**Domain**:
+Ein benannter Anwendungsbereich innerhalb einer Fertigkeit. Eine Domain ist nicht automatisch eine Spezialisierung.
