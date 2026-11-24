@@ -20,7 +20,7 @@ Der Entwurf sagt, dass ausschliesslich sechsseitige Wuerfel verwendet werden.
 
 ## Skill-Wuerfel und Risiko-Wuerfel
 
-Die Anzahl der Skill-Wuerfel entspricht der Skill-Stufe (0-5). Jeder Charakter hat zwei Risiko-Wuerfel. Risiko-Wuerfel koennen genutzt werden, wenn der Charakter keine Punkte im Skill hat oder zusaetzlich zu den Skill-Wuerfeln. Die Entscheidung ueber Risiko-Wuerfel darf nach Sichtung der Skill-Wuerfel fallen; ihr Einsatz muss erzählerisch als Risiko beschrieben werden.
+Die Anzahl der Skill-Wuerfel entspricht der Skill-Stufe (0-10; siehe [[02_Regelwerk/Skills-und-Fertigkeiten/Skills-und-Fertigkeiten|Skills und Fertigkeiten]]). Jeder Charakter hat zwei Risiko-Wuerfel. Risiko-Wuerfel koennen genutzt werden, wenn der Charakter keine Punkte im Skill hat oder zusaetzlich zu den Skill-Wuerfeln. Die Entscheidung ueber Risiko-Wuerfel darf nach Sichtung der Skill-Wuerfel fallen; ihr Einsatz muss erzählerisch als Risiko beschrieben werden.
 
 ## Ablauf einer Probe
 

@@ -11,7 +11,7 @@ sources: ["[[01_Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 - Spieler erstellen einen Spacer; Mission Control fuehrt die Nichtspielercharaktere und bereitet die Reise vor.
 - Ein Spacer hat Primaerwerte, Sekundaerwerte und Verteidigungswerte sowie Skills und Talente.
 - Primaerwerte haben mindestens den Wert 1; Skills beginnen laut DOCX bei Stufe 0.
-- Die Werte koennen mit Primaer- bzw. Skillpunkten gesteigert werden; die jeweiligen Kosten sind in [[Primaerwerte]] und [[Skills-und-Fertigkeiten]] dokumentiert.
+- Die Werte koennen mit Primaer- bzw. Skillpunkten gesteigert werden; die jeweiligen Kosten sind in [[Primaerwerte]] und [[02_Regelwerk/Skills-und-Fertigkeiten/Skills-und-Fertigkeiten|Skills und Fertigkeiten]] dokumentiert.
 
 ## Was nicht festgelegt ist
 

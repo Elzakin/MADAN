@@ -9,7 +9,7 @@ Die Quellen enthalten einzelne Werte, Kosten, Ausruestung und einen statischen B
 
 - [[Charaktererschaffung/Start-und-Verteilung]] - was bei der Spacer-Erstellung belegt ist und was fehlt.
 - [[Charaktererschaffung/Primaerwerte]] - fuenf Werte und Steigerungskosten.
-- [[Skills-und-Fertigkeiten]] - Skill-Stufen, Skillpunkte und DOCX-Gruppen.
+- [[02_Regelwerk/Skills-und-Fertigkeiten/Skills-und-Fertigkeiten|Skills und Fertigkeiten]] - Skill-Stufen, Skillpunkte und DOCX-Gruppen.
 - [[Charaktererschaffung/Abgeleitete-Werte]] - Bewegung, Ressourcen und Verteidigung.
 - [[Charaktererschaffung/Verletzungen-und-Heilung]] - Verletzungsfolgen.
 - [[Charaktererschaffung/Faehigkeiten-und-Talente]] - aktive Faehigkeiten und passive Talente.

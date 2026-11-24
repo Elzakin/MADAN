@@ -28,10 +28,18 @@ Dieser Vault trennt Quellen, quellennahe Auswertungen, Spielregeln und offene Sy
 
 ## Notizstatus
 
-- **Quelle / Extraktion:** gibt wieder, was ein Dokument oder Entwurf enthaelt.
-- **Kandidat / Vorschlag:** im Material genannt, aber nicht als aktuelle Regel bestaetigt.
-- **Beschlossen:** nur verwenden, wenn die gemeinsame Entscheidung explizit dokumentiert ist.
-- **Offen:** benoetigt Klaerung oder eine Quelle ist unvollstaendig.
+Die Property `status` beschreibt den Bearbeitungs- und Entscheidungsstand. In den Properties kann sie mit Custom Selectors aus einer Liste gewaehlt werden.
+
+| Status | Bedeutung |
+|---|---|
+| `vorschlag` | Idee zur Diskussion; noch keine gemeinsam bestaetigte Regel. |
+| `entwurf` | In Ausarbeitung; noch nicht beschlossen. |
+| `beschlossen` | Gemeinsam ausdruecklich bestaetigte Fassung; die Entscheidung ist dokumentiert. |
+| `abgelehnt` | Verworfener Ansatz, der zur Nachvollziehbarkeit erhalten bleibt. |
+
+Bisherige Import- und Bearbeitungsstatus anderer Notizen bleiben zusaetzlich verfuegbar. Quelle/Extraktion gibt wieder, was ein Dokument oder Entwurf enthaelt; ein Kandidat ist noch keine bestaetigte aktuelle Regel. `offen` bedeutet, dass Klaerung noetig oder eine Quelle unvollstaendig ist.
+
+Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[MADAN/02_Regelwerk/Skills-und-Fertigkeiten/Skills-und-Fertigkeiten|Skills und Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.
 
 ## Vorlagen
 

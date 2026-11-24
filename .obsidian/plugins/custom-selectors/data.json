@@ -1,0 +1,28 @@
+{
+  "selectors": [
+    {
+      "name": "status",
+      "options": [
+        "vorschlag",
+        "entwurf",
+        "beschlossen",
+        "abgelehnt",
+        "Arbeitsauszug aus vorhandenen Quellen",
+        "in-arbeit",
+        "laufend",
+        "laufende-erschliessung",
+        "nicht-bestaetigter-entwurf",
+        "offen",
+        "offene-regelgrundlage",
+        "quellenentwurf",
+        "quellenextraktion",
+        "quellennahe-auswertung",
+        "teilweise-unvollstaendig",
+        "template",
+        "vorgeschlagen",
+        "widerspruchsoffen"
+      ],
+      "defaultFirst": false
+    }
+  ]
+}
