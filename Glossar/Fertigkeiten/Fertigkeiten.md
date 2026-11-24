@@ -4,6 +4,27 @@ Hier werden bestätigte einzelne Fertigkeiten als eigene Glossareinträge gesamm
 
 ## Bestätigte Fertigkeiten
 
-- [[Mysteries]]
-- [[Medicine]]
 - [[Arts]]
+- [[Athletics]]
+- [[Channel]]
+- [[Computing]]
+- [[Control]]
+- [[Culture]]
+- [[Defend]]
+- [[Electronics]]
+- [[Engineering]]
+- [[Influence]]
+- [[Investigate]]
+- [[Life Science]]
+- [[Medicine]]
+- [[Mysteries]]
+- [[Physical Science]]
+- [[Piloting]]
+- [[Shoot]]
+- [[Stealth]]
+- [[Streetwise]]
+- [[Strike]]
+- [[Survival]]
+- [[Thievery]]
+
+Bei Arts, Medicine und Mysteries sind die Domains bereits bestätigt. Die bisherigen Domainlisten der übrigen Fertigkeiten bleiben ungeprüfte Vorschläge; siehe [[Werkstatt/Widersprüche/Widersprüche#W-014]].

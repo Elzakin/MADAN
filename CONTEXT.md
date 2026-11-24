@@ -34,4 +34,4 @@ Ein bestätigter grundlegender Kompetenzbereich eines Charakters, dem konkrete D
 _Avoid_: Skill
 
 **Domain**:
-Ein benannter Anwendungsbereich innerhalb einer Fertigkeit. Eine Domain ist nicht automatisch eine Spezialisierung.
+Eine mechanisch relevante Spezialisierung innerhalb einer Fertigkeit und ein möglicher Zugang zu einem Skill Tree. Bestehende Entwürfe verwenden den Begriff teilweise auch für bloße Anwendungsfälle; diese Abgrenzung ist noch offen.

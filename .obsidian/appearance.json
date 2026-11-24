@@ -1,5 +1,6 @@
 {
   "showRibbon": true,
   "showViewHeader": true,
-  "cssTheme": "Minimal"
+  "cssTheme": "Things",
+  "theme": "obsidian"
 }

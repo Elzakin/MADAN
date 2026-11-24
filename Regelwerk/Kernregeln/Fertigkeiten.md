@@ -10,11 +10,33 @@ Bestätigte einzelne Fertigkeiten werden künftig unter [[Glossar/Fertigkeiten/F
 
 ## Bestätigter Stand
 
-Am 24. November 2026 wurden folgende Fertigkeiten und Domains ausdrücklich bestätigt:
+Am 24. November 2026 wurden 22 Grundfertigkeiten ausdrücklich bestätigt. Bei Arts, Medicine und Mysteries sind außerdem die nachfolgenden Domains bestätigt:
 
 - [[Glossar/Fertigkeiten/Mysteries|Mysteries]]: Entities, Distortions, Relics, Psionics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
 - [[Glossar/Fertigkeiten/Medicine|Medicine]]: First Aid, Recovery, Reconstruction, Pharmacy, Genetics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
 - [[Glossar/Fertigkeiten/Arts|Arts]]: Dance, Music, Acting, Visual Arts, Literature.
+
+Für die übrigen Grundfertigkeiten sind die früher genannten Domains noch ungeprüft:
+
+- [[Glossar/Fertigkeiten/Athletics|Athletics]]
+- [[Glossar/Fertigkeiten/Channel|Channel]]
+- [[Glossar/Fertigkeiten/Control|Control]]
+- [[Glossar/Fertigkeiten/Defend|Defend]]
+- [[Glossar/Fertigkeiten/Influence|Influence]]
+- [[Glossar/Fertigkeiten/Investigate|Investigate]]
+- [[Glossar/Fertigkeiten/Shoot|Shoot]]
+- [[Glossar/Fertigkeiten/Stealth|Stealth]]
+- [[Glossar/Fertigkeiten/Strike|Strike]]
+- [[Glossar/Fertigkeiten/Streetwise|Streetwise]]
+- [[Glossar/Fertigkeiten/Survival|Survival]]
+- [[Glossar/Fertigkeiten/Piloting|Piloting]]
+- [[Glossar/Fertigkeiten/Thievery|Thievery]]
+- [[Glossar/Fertigkeiten/Culture|Culture]]
+- [[Glossar/Fertigkeiten/Physical Science|Physical Science]]
+- [[Glossar/Fertigkeiten/Life Science|Life Science]]
+- [[Glossar/Fertigkeiten/Computing|Computing]]
+- [[Glossar/Fertigkeiten/Electronics|Electronics]]
+- [[Glossar/Fertigkeiten/Engineering|Engineering]]
 
 ## Skill-Stufen
 
