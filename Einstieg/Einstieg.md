@@ -1,6 +1,6 @@
 ---
 type: index
-status: laufende-erschliessung
+status: entwurf
 ---
 
 # Projekt Madan – Einstieg
@@ -33,11 +33,11 @@ Die Property `status` beschreibt den Bearbeitungs- und Entscheidungsstand. In de
 
 | Status | Bedeutung |
 |---|---|
-| `vorschlag` | Idee zur Diskussion; noch keine gemeinsam bestaetigte Regel. |
-| `entwurf` | In Ausarbeitung; noch nicht beschlossen. |
-| `beschlossen` | Gemeinsam ausdruecklich bestaetigte Fassung; die Entscheidung ist dokumentiert. |
-| `abgelehnt` | Verworfener Ansatz, der zur Nachvollziehbarkeit erhalten bleibt. |
+| `vorschlag` | Idee oder Option, die noch nicht in den gemeinsamen Entwurf übernommen wurde. |
+| `entwurf` | Arbeitsstand, der ausgearbeitet und noch abgestimmt wird. |
+| `abgestimmter entwurf` | Gemeinsam vereinbarte Arbeitsgrundlage, die weiterentwickelt werden kann. |
+| `finalisiert` | Fertig ausgearbeitete, geprüfte und ausdrücklich freigegebene Fassung. |
 
-Bisherige Import- und Bearbeitungsstatus anderer Notizen bleiben zusaetzlich verfuegbar. Quelle/Extraktion gibt wieder, was ein Dokument oder Entwurf enthaelt; ein Kandidat ist noch keine bestaetigte aktuelle Regel. `offen` bedeutet, dass Klaerung noetig oder eine Quelle unvollstaendig ist.
+Dieselben Werte gelten für `domains-status`, damit eine Fertigkeit bereits abgestimmt sein kann, während ihre Domains noch Vorschläge sind. Quellenbezug und offene Fragen stehen im Inhalt und bilden keine zusätzlichen Statuswerte.
 
 Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.

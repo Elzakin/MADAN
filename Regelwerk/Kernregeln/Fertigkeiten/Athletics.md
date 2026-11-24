@@ -1,20 +1,18 @@
 ---
 type: skill
 category: Fertigkeit
-status: beschlossen
-domains-status: ungeprueft
-confirmed: 2026-11-24
+status: abgestimmter entwurf
+domains-status: vorschlag
+abgestimmt: 2026-11-24
 ---
 
 # Athletics
-
-Athletics ist eine bestätigte Grundfertigkeit.
 
 > “You climbed the fence instead of finding the gate because thinking is cardio for nerds.”
 
 ## Bisher genannte Domains
 
-Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
+Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
 
 - Climbing
 - Running
@@ -26,7 +24,7 @@ Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domai
 - Balance
 
 > [!warning] Offene Abgrenzung
-> Climbing, Running und Jumping wurden ausdrücklich als mögliche Grundanwendungen von Athletics benannt und sind daher nicht als Domains bestätigt.
+> Climbing, Running und Jumping sind mögliche Grundanwendungen von Athletics. Ihre Einordnung als Domains ist noch offen.
 
 ## Regelbezug
 

@@ -1,7 +1,7 @@
 ---
 type: source-analysis
 source: "[[Archiv/Quellen/Discord/Unbenannt]]"
-status: quellennahe-auswertung
+status: entwurf
 ---
 
 # Skill-System: Vertiefender Chatverlauf

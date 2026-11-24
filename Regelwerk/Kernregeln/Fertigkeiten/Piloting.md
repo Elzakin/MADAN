@@ -1,20 +1,18 @@
 ---
 type: skill
 category: Fertigkeit
-status: beschlossen
-domains-status: ungeprueft
-confirmed: 2026-11-24
+status: abgestimmter entwurf
+domains-status: vorschlag
+abgestimmt: 2026-11-24
 ---
 
 # Piloting
-
-Piloting ist eine bestätigte Grundfertigkeit.
 
 > “Parallel parking, but the wall is an asteroid field and everyone dies if you fail.”
 
 ## Bisher genannte Domains
 
-Die folgenden Begriffe stammen aus älteren Entwürfen. Sie sind nicht als Domains bestätigt und werden einzeln geprüft.
+Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
 
 - Navigation
 - Spaceflight

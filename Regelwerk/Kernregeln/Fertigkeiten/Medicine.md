@@ -1,14 +1,12 @@
 ---
 type: skill
 category: Fertigkeit
-status: beschlossen
-domains-status: beschlossen
-confirmed: 2026-11-24
+status: abgestimmter entwurf
+domains-status: abgestimmter entwurf
+abgestimmt: 2026-11-24
 ---
 
 # Medicine
-
-Medicine ist eine bestätigte Fertigkeit.
 
 > “People trust you with surgery despite the fact you haven’t slept in 36 hours.”
 
@@ -20,7 +18,7 @@ Medicine ist eine bestätigte Fertigkeit.
 - Pharmacy
 - Genetics
 
-Die Bestätigung enthielt hinter `Genetics` ein `+`. Weitere Domains sind damit möglich, wurden aber noch nicht benannt.
+Weitere Domains sind möglich und noch nicht benannt (`+` hinter `Genetics`).
 
 ## Regelbezug
 

@@ -1,6 +1,6 @@
 ---
 type: rule
-status: quellenentwurf
+status: entwurf
 sources: []
 ---
 

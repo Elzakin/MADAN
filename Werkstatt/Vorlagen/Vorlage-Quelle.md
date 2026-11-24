@@ -1,7 +1,7 @@
 ---
 type: source-analysis
 source:
-status: in-arbeit
+status: entwurf
 ---
 
 # Quellenauswertung: Titel

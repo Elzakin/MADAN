@@ -1,14 +1,12 @@
 ---
 type: skill
 category: Fertigkeit
-status: beschlossen
-domains-status: beschlossen
-confirmed: 2026-11-24
+status: abgestimmter entwurf
+domains-status: abgestimmter entwurf
+abgestimmt: 2026-11-24
 ---
 
 # Mysteries
-
-Mysteries ist eine bestätigte Fertigkeit.
 
 > “Reality stopped making sense around you several sessions ago.”
 
@@ -19,7 +17,7 @@ Mysteries ist eine bestätigte Fertigkeit.
 - Relics
 - Psionics
 
-Die Bestätigung enthielt hinter `Psionics` ein `+`. Weitere Domains sind damit möglich, wurden aber noch nicht benannt.
+Weitere Domains sind möglich und noch nicht benannt (`+` hinter `Psionics`).
 
 ## Regelbezug
 

@@ -1,6 +1,6 @@
 ---
 type: import-audit
-status: laufend
+status: entwurf
 ---
 
 # Importstatus und erkennbare Dokumentationsluecken

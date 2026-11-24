@@ -1,6 +1,6 @@
 ---
 type: decision
-status: vorgeschlagen
+status: vorschlag
 created:
 participants: []
 sources: []

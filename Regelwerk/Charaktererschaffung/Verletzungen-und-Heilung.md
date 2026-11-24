@@ -1,6 +1,6 @@
 ---
 type: rule-extraction
-status: quellenentwurf
+status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 ---
 

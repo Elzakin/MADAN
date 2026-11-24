@@ -1,6 +1,6 @@
 ---
 type: contradiction
-status: offen
+status: entwurf
 sources: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: index
-status: quellenextraktion
+status: entwurf
 ---
 
 # Kernregeln

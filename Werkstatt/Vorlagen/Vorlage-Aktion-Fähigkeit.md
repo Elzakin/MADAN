@@ -7,7 +7,7 @@ sources: []
 # Name der Aktion oder Faehigkeit
 
 ## Status
-Quelle / Vorschlag / beschlossen
+`vorschlag` / `entwurf` / `abgestimmter entwurf` / `finalisiert`
 
 ## Voraussetzungen
 

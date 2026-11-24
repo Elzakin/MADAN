@@ -43,6 +43,13 @@
 - Glossareinträge verlinken zurück auf die Regelwerksseite, die ihre Anwendung erklärt.
 - Aktualisiere bei Verschiebungen und Umbenennungen sämtliche Wikilinks, Markdown-Links und relevanten Frontmatter-Pfade.
 
+## Notizstatus
+
+- Verwende für `status` und `domains-status` ausschließlich `vorschlag`, `entwurf`, `abgestimmter entwurf` und `finalisiert`.
+- Ein abgestimmter Entwurf ist eine gemeinsam vereinbarte Arbeitsgrundlage und darf weiterentwickelt werden. Er ist noch keine finalisierte Fassung.
+- Setze `finalisiert` nur nach ausdrücklicher Freigabe. Überführe frühere Werte wie `beschlossen` in `abgestimmter entwurf`.
+- Halte unterschiedliche Arbeitsstände von Fertigkeit und Domains getrennt fest. Quellenbezug, Lücken und offene Fragen gehören in den Inhalt, nicht in zusätzliche Statuswerte.
+
 ## Importablauf
 
 Sichere zuerst die unveränderte Quelle unter `Archiv/Quellen`, erstelle danach die vollständige Auswertung in der passenden Ablage und ergänze zuletzt die Querverweise. Die Auswertung darf die Quelle nicht ersetzen.

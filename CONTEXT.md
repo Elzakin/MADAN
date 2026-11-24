@@ -30,7 +30,7 @@ _Avoid_: Index Page
 ## Regelbegriffe
 
 **Fertigkeit**:
-Ein bestätigter grundlegender Kompetenzbereich eines Charakters, dem konkrete Domains zugeordnet werden können.
+Ein grundlegender Kompetenzbereich eines Charakters, dem konkrete Domains zugeordnet werden können.
 _Avoid_: Skill
 
 **Domain**:

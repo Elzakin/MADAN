@@ -25,37 +25,9 @@ Fertigkeiten reichen von Stufe 0 bis Stufe 10. Die Steigerung auf die Stufen 1-5
 
 Die Fertigkeit beginnt bei 0 und kann im Abenteuer durch Skillpunkte gesteigert werden.
 
-## Bestätigter Stand
+Jede Fertigkeitsstufe gibt einen zusätzlichen Fertigkeitswürfel (W6), bis zu maximal 10 Fertigkeitswürfeln auf Stufe 10.
 
-Am 24. November 2026 wurden 22 Grundfertigkeiten ausdrücklich bestätigt. Bei Arts, Medicine und Mysteries sind außerdem die nachfolgenden Domains bestätigt:
-
-- [[Regelwerk/Kernregeln/Fertigkeiten/Mysteries|Mysteries]]: Entities, Distortions, Relics, Psionics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
-- [[Regelwerk/Kernregeln/Fertigkeiten/Medicine|Medicine]]: First Aid, Recovery, Reconstruction, Pharmacy, Genetics; die Bestätigung enthält zusätzlich ein `+` für noch nicht benannte Erweiterungen.
-- [[Regelwerk/Kernregeln/Fertigkeiten/Arts|Arts]]: Dance, Music, Acting, Visual Arts, Literature.
-
-Für die übrigen Grundfertigkeiten sind die früher genannten Domains noch ungeprüft:
-
-- [[Regelwerk/Kernregeln/Fertigkeiten/Athletics|Athletics]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Channel|Channel]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Control|Control]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Defend|Defend]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Influence|Influence]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Investigate|Investigate]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Shoot|Shoot]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Stealth|Stealth]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Strike|Strike]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Streetwise|Streetwise]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Survival|Survival]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Piloting|Piloting]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Thievery|Thievery]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Culture|Culture]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Physical Science|Physical Science]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Life Science|Life Science]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Computing|Computing]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Electronics|Electronics]]
-- [[Regelwerk/Kernregeln/Fertigkeiten/Engineering|Engineering]]
-
-## Fertigkeiten im Überblick
+## Einträge
 
 ```folder-overview
 id: bd614695-ea16-450d-bd1c-b37b722132a3

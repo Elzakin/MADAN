@@ -1,14 +1,12 @@
 ---
 type: skill
 category: Fertigkeit
-status: beschlossen
-domains-status: beschlossen
-confirmed: 2026-11-24
+status: abgestimmter entwurf
+domains-status: abgestimmter entwurf
+abgestimmt: 2026-11-24
 ---
 
 # Arts
-
-Arts ist eine bestätigte Fertigkeit.
 
 > “Finally, a skill for emotionally damaged people with expensive hobbies.”
 

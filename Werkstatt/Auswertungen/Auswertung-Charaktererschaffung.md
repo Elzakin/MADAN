@@ -1,7 +1,7 @@
 ---
 type: source-extraction
 topic: Charaktererschaffung
-status: Arbeitsauszug aus vorhandenen Quellen
+status: entwurf
 ---
 
 # Charaktererschaffung – Quellenextraktion

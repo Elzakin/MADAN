@@ -1,6 +1,6 @@
 ---
 type: character-template
-status: template
+status: entwurf
 sources: []
 ---
 
@@ -22,4 +22,4 @@ sources: []
 
 ## Offene Quellenfragen
 
-> Werte nur aus einer beschlossenen Regelversion uebernehmen; Prototypbeispiele als solche markieren.
+> Werte nur aus einem abgestimmten Entwurf oder einer finalisierten Regelfassung uebernehmen; Prototypbeispiele als solche markieren.
