@@ -2,6 +2,8 @@
 type: equipment-template
 status: entwurf
 sources: []
+chapter: 2
+subchapter: 0
 ---
 
 # Gegenstandsname

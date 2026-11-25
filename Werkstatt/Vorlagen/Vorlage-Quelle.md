@@ -2,6 +2,8 @@
 type: source-analysis
 source:
 status: entwurf
+chapter: 7
+subchapter: 0
 ---
 
 # Quellenauswertung: Titel

@@ -1,6 +1,8 @@
 ---
 type: index
 status: entwurf
+chapter: 1
+subchapter: 0
 ---
 
 # Projekt Madan – Einstieg
@@ -9,7 +11,7 @@ Projekt Madan verbindet ein spielbares Pen-&-Paper-Regelwerk mit einem eigenen U
 
 ## Hauptbereiche
 
-- [[Regelwerk/Regelwerk|Regelwerk]] – Kernregeln, Charaktererschaffung und Ausrüstung.
+- [[Regelwerk/Regelwerk|Regelwerk]] – Kernregeln, Charakter und Ausrüstung.
 - [[Welt/Welt|Welt]] – Geschichte, Orte, Kulturen, Fraktionen und Personen des Universums.
 - [[Glossar/Glossar|Glossar]] – ausführliche Einzeleinträge zum Nachschlagen.
 - [[Werkstatt/Werkstatt|Werkstatt]] – Auswertungen, Vorlagen und offene Widersprüche.
@@ -40,4 +42,4 @@ Die Property `status` beschreibt den Bearbeitungs- und Entscheidungsstand. In de
 
 Dieselben Werte gelten für `domains-status`, damit eine Fertigkeit bereits abgestimmt sein kann, während ihre Domains noch Vorschläge sind. Quellenbezug und offene Fragen stehen im Inhalt und bilden keine zusätzlichen Statuswerte.
 
-Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[Regelwerk/Kernregeln/Fertigkeiten/Fertigkeiten|Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.
+Die Property `type` beschreibt dagegen die Art der Notiz. Sie ist eine frei festgelegte Kategorie fuer Suche, Filter und Uebersichten und aendert allein keine Spielfunktion. Fuer die Uebersicht [[Regelwerk/Charakter/Fertigkeiten/Fertigkeiten|Fertigkeiten]] verwenden wir `regelwerk`, fuer die einzelnen Skills `skill`.

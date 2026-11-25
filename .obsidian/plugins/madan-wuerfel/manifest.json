@@ -1,0 +1,9 @@
+{
+  "id": "madan-wuerfel",
+  "name": "W6-Poolrechner",
+  "version": "2.0.0",
+  "minAppVersion": "1.4.10",
+  "description": "Konfigurierbare Standard-, Fokus- und Risikowürfel mit C-Seiten, Würfelabzug und optionalen Zielwerten.",
+  "author": "Projekt Madan",
+  "isDesktopOnly": false
+}

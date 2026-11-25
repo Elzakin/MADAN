@@ -2,6 +2,8 @@
 type: ability-template
 status: entwurf
 sources: []
+chapter: 1
+subchapter: 0
 ---
 
 # Name der Aktion oder Faehigkeit
