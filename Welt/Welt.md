@@ -1,3 +1,8 @@
+---
+chapter: 3
+subchapter: 0
+---
+
 # Welt
 
 Dieser Bereich beschreibt das Universum von Projekt Madan.

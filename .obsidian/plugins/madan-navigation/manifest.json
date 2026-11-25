@@ -1,0 +1,9 @@
+{
+  "id": "madan-navigation",
+  "name": "Kapitel-Sortierung",
+  "version": "2.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Sortiert Dateien und Ordner nach den Properties chapter und subchapter. Ordner verwenden ihre Folder Note.",
+  "author": "Projekt Madan",
+  "isDesktopOnly": false
+}

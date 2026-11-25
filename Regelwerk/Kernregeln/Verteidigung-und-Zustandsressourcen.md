@@ -2,9 +2,17 @@
 type: rule-extraction
 status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
+chapter: 1
+subchapter: 9
 ---
 
 # Verteidigung und Zustandsressourcen
+
+## Aktueller Entwurf der Primärwerte
+
+**Physis** beeinflusst **[[Regelwerk/Charakter/Sekundärwerte/Stabilität-und-Ausdauer|Stabilität / Ausdauer]]**; beide Namen werden vorerst für denselben Wert verwendet. Die Umrechnung ist noch offen. **Willenskraft** erhöht **[[Regelwerk/Charakter/Sekundärwerte/Psyche|Psyche]] im Verhältnis 1:1**. Die aktuellen Zuordnungen stehen unter [[Regelwerk/Charakter/Primärwerte|Primärwerte]] und [[Regelwerk/Charakter/Sekundärwerte/Sekundärwerte|Sekundärwerte]]. Stand: Arbeitsgespräch vom 24. November 2026, Status Entwurf.
+
+Die folgenden Abschnitte geben die **ältere DOCX-Fassung** der Ressourcen und ihrer Regeneration wieder. Die Zuordnung von Körper und die damaligen Ableitungsformeln werden durch den neuen Primärwerteentwurf überarbeitet; die übrigen Einzelmechaniken sind noch damit abzugleichen.
 
 ## Abschirmung
 
@@ -24,7 +32,7 @@ Der Schild absorbiert Schaden, bevor dieser den Koerper erreicht. Er hat Kinetik
 
 ## Klaerungsbedarf
 
-Das Material verwendet Abschirmung, Stabilitaet und Schild teils nebeneinander, waehrend Koerper mehreren Werten zugeordnet wird. Siehe [[Werkstatt/Widersprüche/Widersprüche|W-001]]. Die obigen Abschnitte geben die unterschiedlichen Quellformulierungen getrennt wieder und harmonisieren sie nicht.
+Das ältere Material verwendet Abschirmung, Stabilität und Schild teils nebeneinander, während Körper mehreren Werten zugeordnet wird. Im aktuellen Entwurf ist Physis der Einfluss auf Stabilität / Ausdauer zugeordnet; deren Verhältnis zur Abschirmung bleibt offen. Siehe [[Werkstatt/Widersprüche/Widersprüche|W-001]]. Die älteren Quellabschnitte bleiben zur weiteren Prüfung erhalten.
 
 ## Quelle
-DOCX S. 22, 26, 28-29; siehe auch [[../Charaktererschaffung/Abgeleitete-Werte]].
+DOCX S. 22, 26, 28-29; siehe auch [[Regelwerk/Charakter/Sekundärwerte/Sekundärwerte|Sekundärwerte]].

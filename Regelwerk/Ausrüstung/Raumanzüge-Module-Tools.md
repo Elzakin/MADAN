@@ -2,6 +2,8 @@
 type: rule-extraction
 status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
+chapter: 1
+subchapter: 0
 ---
 
 # Raumanzuege, Module und Tools

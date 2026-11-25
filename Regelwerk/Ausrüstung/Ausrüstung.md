@@ -1,3 +1,8 @@
+---
+chapter: 3
+subchapter: 0
+---
+
 # Ausrüstung
 
 - [[Systeme]]

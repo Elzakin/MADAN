@@ -2,6 +2,8 @@
 type: contradiction
 status: entwurf
 sources: []
+chapter: 9
+subchapter: 0
 ---
 
 # Widerspruch: Thema

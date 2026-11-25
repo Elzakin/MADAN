@@ -29,8 +29,9 @@
 
 - `Einstieg/`: zentraler Startpunkt und Navigation durch den Vault.
 - `Regelwerk/`: buchartig aufgebaute, ausformulierte und spielbare Regeln. Übersichtsseiten führen von Grundkapiteln zu Detailthemen.
+- `Regelwerk/Charakter/`: Primärwerte, Sekundärwerte, Fertigkeiten sowie Fähigkeiten und Talente. Die Charakterübersicht führt in dieser Reihenfolge durch die Bereiche. Start und Verteilung sowie Verletzungen und Heilung liegen unter `Regelwerk/Kernregeln/`.
 - `Welt/`: das Universum des Spiels mit Geschichte, Orten, Kulturen, Fraktionen und Personen.
-- `Glossar/`: ausführliche Einzeleinträge zu nachschlagbaren Begriffen. Fertigkeiten und ihre einzelnen Skill-Notizen liegen gemeinsam unter `Regelwerk/Kernregeln/Fertigkeiten`.
+- `Glossar/`: ausführliche Einzeleinträge zu nachschlagbaren Begriffen. Fertigkeiten und ihre einzelnen Skill-Notizen liegen gemeinsam unter `Regelwerk/Charakter/Fertigkeiten`.
 - `Werkstatt/`: aktive Entwürfe, Auswertungen, Vorlagen und offene Widersprüche. Inhalte hier gelten nicht automatisch als beschlossene Regeln.
 - `Archiv/Quellen/`: unveränderte Originale, Exporte und quellennahe Dokumente.
 - `Archiv/Bilder/`: Bilder und andere visuelle Medien des Vaults.
@@ -39,7 +40,8 @@
 
 - Jeder strukturtragende Ordner erhält im selben Ordner eine gleichnamige Markdown-Datei als Folder Note, zum Beispiel `Regelwerk/Regelwerk.md`.
 - Folder Notes dienen als Einstieg und Inhaltsverzeichnis ihres Ordners.
-- Regelwerksseiten erklären Kategorien und Mechaniken. Fertigkeiten bilden einen eigenen Ordner unter `Regelwerk/Kernregeln/Fertigkeiten`: Die gleichnamige Folder Note enthält Regeln und Übersicht, die einzelnen Skills liegen direkt darunter. Andere nachschlagbare Begriffe können im Glossar erläutert werden.
+- Die Properties `chapter` und `subchapter` legen die Reihenfolge im Dateibaum fest: zuerst `chapter`, dann `subchapter`, jeweils numerisch. Ordner verwenden die Properties ihrer gleichnamigen Folder Note. Neue aktive Notizen erhalten passende Werte; unveränderte Originalquellen unter `Archiv/Quellen` werden nicht um Properties ergänzt.
+- Regelwerksseiten erklären Kategorien und Mechaniken. Fertigkeiten bilden einen eigenen Ordner unter `Regelwerk/Charakter/Fertigkeiten`: Die gleichnamige Folder Note enthält Regeln und Übersicht, die einzelnen Skills liegen direkt darunter. Andere nachschlagbare Begriffe können im Glossar erläutert werden.
 - Glossareinträge verlinken zurück auf die Regelwerksseite, die ihre Anwendung erklärt.
 - Aktualisiere bei Verschiebungen und Umbenennungen sämtliche Wikilinks, Markdown-Links und relevanten Frontmatter-Pfade.
 

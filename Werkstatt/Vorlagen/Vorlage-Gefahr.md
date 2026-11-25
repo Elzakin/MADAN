@@ -2,6 +2,8 @@
 type: hazard-template
 status: entwurf
 sources: []
+chapter: 6
+subchapter: 0
 ---
 
 # Name der Gefahr

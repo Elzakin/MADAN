@@ -3,6 +3,8 @@ type: skill-candidate
 status: vorschlag
 sources: []
 aliases: []
+chapter: 5
+subchapter: 0
 ---
 
 # Skillname

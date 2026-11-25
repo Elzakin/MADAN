@@ -2,6 +2,8 @@
 type: rule-extraction
 status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
+chapter: 2
+subchapter: 0
 ---
 
 # Systeme
