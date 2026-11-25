@@ -58,7 +58,7 @@ useWikilinks: true
 - [[Regelwerk/Kernregeln/Fertigkeiten/Electronics.md|Electronics]] <span class="fv-link-list-item"></span>
 - [[Regelwerk/Kernregeln/Fertigkeiten/Engineering.md|Engineering]] <span class="fv-link-list-item"></span>
 - [[Regelwerk/Kernregeln/Fertigkeiten/Influence.md|Influence]] <span class="fv-link-list-item"></span>
-- [[Regelwerk/Kernregeln/Fertigkeiten/Investigate.md|Investigate]] <span class="fv-link-list-item"></span>
+- [[Regelwerk/Kernregeln/Fertigkeiten/Search.md|Search]] <span class="fv-link-list-item"></span>
 - [[Regelwerk/Kernregeln/Fertigkeiten/Life Science.md|Life Science]] <span class="fv-link-list-item"></span>
 - [[Regelwerk/Kernregeln/Fertigkeiten/Medicine.md|Medicine]] <span class="fv-link-list-item"></span>
 - [[Regelwerk/Kernregeln/Fertigkeiten/Mysteries.md|Mysteries]] <span class="fv-link-list-item"></span>

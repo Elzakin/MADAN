@@ -10,6 +10,10 @@ abgestimmt: 2026-11-24
 
 > “If there’s a blinking light and a joystick, you will absolutely press the wrong button with confidence.”
 
+## Namensvorschlag
+
+**Remote Control** ist als neuer Name für diese Grundfertigkeit vorgeschlagen, weil er die Fernsteuerung deutlicher bezeichnet. Der Name ist noch nicht festgelegt; bis zur Entscheidung bleiben Dateiname und Verweise bei Control.
+
 ## Grundanwendungen
 
 Control deckt ohne Domain die Fernsteuerung bekannter Geräte, einfacher Drohnen und gewöhnlicher Maschinen unter normalen Bedingungen ab. Die steuernde Figur bleibt räumlich vom kontrollierten Objekt getrennt und bewegt sich nicht mit ihm.
