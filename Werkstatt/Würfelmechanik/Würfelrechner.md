@@ -32,7 +32,7 @@ Jede 6 gibt einen Erfolg. Die Augenzahlen 1–5 geben beim ersten Wurf keine Erf
 
 Bei **0 verbleibenden Würfeln ist die Handlung nicht machbar**. Es gibt keinen automatischen Mindestwürfel und keine zuschaltbaren Risikowürfel. Beispiel: Ein Sprung über 5 Meter aus dem Stand wird nicht durch beliebig viele Versuche möglich.
 
-Die Erfolgschance bei `n` verbleibenden Würfeln lautet `1 − (5/6)^n`. Mit 10 W6 sind es rund **83,85 %**, mit 8 W6 **76,74 %**. Die Vergleichstabelle zählt bereits verbleibende Würfel nach allen Abzügen; diese werden dort nicht nochmals abgezogen.
+Die Erfolgschance bei `n` verbleibenden Würfeln lautet `1 − (5/6)^n`. Mit 10 W6 sind es rund **83,85 %**, mit 8 W6 **76,74 %**. Die Vergleichstabelle zeigt durchgehend **0–20 verbleibende Würfel**. Liegt der aktuelle Pool darüber, wird er zusätzlich als eigene Zeile angezeigt. Alle Boni und Abzüge sind dabei bereits verrechnet; sie werden in der Tabelle nicht nochmals angewendet.
 
 ## Push und Chaos: weiterer Entwurf
 

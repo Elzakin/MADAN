@@ -63,8 +63,8 @@ function mount(container, initial = {}) {
     result.textContent = outcome.possible ? percent(outcome.success) + " Erfolgschance beim ersten Wurf" : "Nicht machbar · 0 W6";
     detail.textContent = outcome.possible ? "Kein Erfolg beim ersten Wurf: " + percent(outcome.failure) : "Es wird kein Wurf ausgeführt.";
     body.textContent = "";
-    const rows = Array.from({ length: 11 }, (_, i) => i);
-    if (outcome.dice > 10) rows.push(outcome.dice);
+    const rows = Array.from({ length: 21 }, (_, i) => i);
+    if (outcome.dice > 20) rows.push(outcome.dice);
     for (const dice of rows) {
       const tr = el("tr", null, null, body);
       tr.dataset.pool = String(dice);
