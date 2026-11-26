@@ -14,12 +14,13 @@ subchapter: 5
 
 ## Mögliche Domains
 
-Als mögliche Domains wurden im Arbeitsgespräch Government, Economics, Factions und Media genannt. Ob sie eigene Skill Trees tragen und welche Anwendungen bereits Culture selbst abdeckt, ist noch offen.
+Als mögliche Domains wurden im Arbeitsgespräch Government, Economics und Factions genannt. Ob sie eigene Skill Trees tragen und welche Anwendungen bereits Culture selbst abdeckt, ist noch offen.
+
+Offen ist außerdem eine andere Aufteilung: Government, Corporations, Syndicates und weitere mächtige Organisationen könnten eine eigene Fertigkeit über Machtstrukturen bilden. Das ist ein Vorschlag, keine beschlossene Verschiebung.
 
 - Government
 - Economics
 - Factions
-- Media
 
 ## Ältere Vorschlagsliste
 

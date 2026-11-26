@@ -2,7 +2,7 @@
 type: skill
 category: Fertigkeit
 status: abgestimmter entwurf
-domains-status: entwurf
+domains-status: abgestimmter entwurf
 abgestimmt: 2026-11-24
 chapter: 3
 subchapter: 7

@@ -18,12 +18,6 @@ Psionics ist die Grundfertigkeit für die aktive Nutzung und Kontrolle psionisch
 
 ## Domains
 
-- Psychokinesis
-- Energy Manipulation
-- Telepathy
-- Phantasm
-- Divination
-
 ### Psychokinesis
 
 Manipulation von Materie, Bewegung und physischer Kraft.

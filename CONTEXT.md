@@ -68,5 +68,85 @@ Die Grundfertigkeit zum Fahren oder Fliegen eines Fahrzeugs, in dem sich die ste
 **Control**:
 Die Grundfertigkeit zur Fernsteuerung eines räumlich getrennten Objekts oder Systems. Die steuernde Figur bewegt sich nicht mit dem kontrollierten Objekt.
 
+<<<<<<< HEAD
 **Würfelmechanik (Werkstattentwurf)**:
 Die gesamte Würfelmechanik ist noch unfertig und liegt unter [[Werkstatt/Würfelmechanik/Würfelmechanik]]. Dazu gehören Fertigkeitswürfel, Fokus- und Risikopools, Seitenwertungen, C, Freischaltungen, Meisterschaften, Zielwerte und Erschwerungen. Ihre konkrete Ausgestaltung wird ausschließlich als Werkstattentwurf behandelt; im Regelwerk stehen dazu Verweise auf den Arbeitsbereich.
+=======
+**Search**:
+Die Grundfertigkeit für das aktive Absuchen von Personen, Orten und Gegenständen nach auffindbaren Informationen oder Objekten.
+_Avoid_: Investigate als Name der Grundfertigkeit
+
+**Investigation**:
+Die Search-Domain für das Verbinden von Hinweisen und das Rekonstruieren von Vorgängen.
+
+**Shoot**:
+Die Grundfertigkeit für den Einsatz von Fernkampfwaffen. Jede Fernkampfwaffe kann ohne Nachteil durch eine fehlende Domain grundsätzlich benutzt werden; Domains spezialisieren auf Waffengattungen.
+
+**Automatic Weapons**:
+Die Shoot-Domain für automatische Schusswaffen, insbesondere Sturmgewehre und Maschinenpistolen.
+
+**Ballistics**:
+Die derzeitige Shoot-Domain für „primitive“ Fernkampfwaffen wie Bögen und Armbrüste. Ob der Name beibehalten wird, ist offen.
+
+**Surveillance Evasion**:
+Die Stealth-Domain mit eigenem Skill Tree zum Umgehen von Kameras und Scannern. Er soll auch erwerbbare Fähigkeiten enthalten, mit denen eine spezialisierte Figur die Gruppe schützt.
+
+**Wilderness Stealth**:
+Die Stealth-Domain mit eigenem Skill Tree für das Verbergen in der Natur. Er soll auch erwerbbare Fähigkeiten enthalten, mit denen eine spezialisierte Figur die Gruppe schützt.
+
+**Imitation**:
+Die Stealth-Domain mit eigenem Skill Tree für das Nachahmen von Personen, Stimmen und Verhalten zur Tarnung.
+
+**Media**:
+Die Streetwise-Domain für das öffentliche digitale und soziale Leben, einschließlich des Cybernet. Technische Angriffe und Datenverarbeitung gehören zu Computing.
+
+**Trapping**:
+Die Survival-Domain für das Planen und Stellen von Fallen, auch mechanischer, technischer oder platzierter explosiver Fallen. Ausrüstung, besondere Skill-Tree-Fähigkeiten und die Grenze zu Engineering Explosives sind noch offen.
+
+**Animal Control**:
+Die Survival-Domain für das gezielte Führen oder Beeinflussen von Tieren. Besondere Skill-Tree-Fähigkeiten sind noch offen.
+
+**Extreme Environments**:
+Die Survival-Domain für Gefahreneinschätzung und Überlebensmaßnahmen in lebensfeindlichen Umgebungen. Konkrete Skill-Tree-Fähigkeiten und Ausrüstungsvoraussetzungen sind noch offen.
+
+**Street Samurai**:
+Die Strike-Domain für beweglichen Nahkampf mit agilen Waffen wie Schwertern. Genaue Waffengrenzen und Skill-Tree-Fähigkeiten sind noch offen.
+
+**Enforcer**:
+Die Strike-Domain für Nahkampf mit schweren Waffen wie großen Äxten und Keulen. Genaue Waffengrenzen und Skill-Tree-Fähigkeiten sind noch offen.
+
+**Dirty Tricks**:
+Die Thievery-Domain für schmutzige Tricks im Kampf. Konkrete Manöver und die Abgrenzung zu Strike sind noch offen.
+
+**Forgery**:
+Die Thievery-Domain für das Anfertigen glaubhafter Kopien beliebiger Gegenstände oder Nachweise, die als Original durchgehen sollen. Eine Fälschung kann ein Vorhaben mit fallabhängigen Voraussetzungen sein: Die Spielleitung setzt den Rahmen, die Spielenden denken sich gehaltvolle benötigte Dinge aus und beschaffen sie. Ein unbemerkter Austausch kann ein gewöhnlicher Thievery-Wurf sein. Personenimitation gehört zu Stealth; die Grenze zu Computing, Electronics und Engineering bei technischen Kopien ist noch offen.
+_Avoid_: Fraud als Name dieser Domain
+
+**Pickpocketing**:
+Die Thievery-Domain für Taschendiebstahl mit noch auszuarbeitenden besonderen Skill-Tree-Fähigkeiten.
+
+**Burglary**:
+Die Thievery-Domain für Einbruch sowie das Überwinden von Zugangssperren und Sicherheitssystemen. Einfaches mechanisches Schlossknacken gehört bereits zur Grundfertigkeit; besondere Schlossarten und Sicherheitstricks können im Skill Tree erschlossen werden. Die Grenze zu Computing und Electronics ist noch offen.
+
+**Erste Hilfe**:
+Eine Grundanwendung von Medicine zur medizinischen Erstversorgung. Sie erfordert keine eigene Domain.
+_Avoid_: First Aid als Medicine-Domain
+
+**Combat Medic**:
+Die Medicine-Domain für die provisorische Behandlung unter akutem Zeitdruck. Ihr Schwerpunkt ist die Behandlungsdauer; konkrete Sofortwirkungen und Kosten sind noch festzulegen.
+
+**Reconstruction**:
+Die Medicine-Domain für die körperliche Wiederherstellung nach schweren Verletzungen, insbesondere bei verlorenen Gliedmaßen. Verfahren und Grenzen sind noch offen.
+
+**Pharmacy**:
+Die Medicine-Domain für das Wissen über Medikamente, Stims, Drogen und vergleichbare Wirkstoffe sowie deren Herstellung. Herstellungsanforderungen sind noch offen.
+
+**Meisterschaft**:
+Eine an eine Domäne gebundene Erweiterung, durch die bei passenden Proben die 6 zwei Erfolge zählt. Die 4 als Erfolg ist eine separate Freischaltung ab Fertigkeitsstufe 5. Beide Freischaltungen werden im aktuellen Arbeitsentwurf unabhängig betrachtet.
+
+**Freischaltung der 4**:
+Ab Fertigkeitsstufe 5 kann „4 zählt als Erfolg“ separat freigeschaltet werden. Die Stufe gewährt den Bonus nicht automatisch; Kosten und Erwerbsweg sind noch offen. Maßgeblich ist die ursprüngliche Fertigkeitsstufe vor Erschwerungen; diese ziehen ausschließlich Würfel ab und heben eine vorhandene Freischaltung nicht auf.
+
+**Fokuswürfel (neuer Entwurf)**:
+Fokuswürfel repräsentieren Spezialisierungen und ersetzen einen Teil des Standardpools: Fertigkeit 8, Fokus 3 ergibt 5 Standard- und 3 Fokuswürfel. Schwierigkeit entfernt zuerst Standard-, danach Fokuswürfel bis mindestens 0; optionale Risikowürfel werden separat hinzugefügt und nicht abgezogen. Der frei konfigurierbare Rechner unter [[Werkstatt/Mathematik/Würfelrechner]] vergleicht diesen Ansatz mit und ohne variable Zielwerte. Ohne Zielwert ist mindestens ein Nettoerfolg nötig. Ein C auf irgendeinem Würfel lässt den gesamten Wurf scheitern.
+>>>>>>> origin/main

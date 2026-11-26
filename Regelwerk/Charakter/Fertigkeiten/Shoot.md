@@ -2,7 +2,7 @@
 type: skill
 category: Fertigkeit
 status: abgestimmter entwurf
-domains-status: vorschlag
+domains-status: abgestimmter entwurf
 abgestimmt: 2026-11-24
 chapter: 3
 subchapter: 17
@@ -12,19 +12,21 @@ subchapter: 17
 
 > “Your conflict resolution strategy travels faster than sound.”
 
-## Bisher genannte Domains
+## Grundanwendung
 
-Die folgenden Domains sind Vorschläge aus älteren Entwürfen und werden einzeln geprüft.
+Mit Shoot kann eine Figur grundsätzlich jede Fernkampfwaffe benutzen, ohne wegen einer fehlenden Domain einen Nachteil zu erhalten. Die Domains stehen für Spezialisierungen auf Waffengattungen und eröffnen die jeweiligen Skill Trees; sie geben selbst keinen Würfelbonus.
 
-- Pistols
-- Rifles
-- Sniper Weapons
-- Heavy Weapons
-- Target Acquisition
-- Ballistics
+## Domains
 
-> [!warning] Offene Abgrenzung
-> Gewöhnliches Schießen mit einer Waffe soll bereits durch die Grundfertigkeit Shoot ohne Nachteil möglich sein. Welche Begriffe echte Domains sind, bleibt zu prüfen.
+- **Pistols** – Pistolen.
+- **Automatic Weapons** – automatische Schusswaffen, insbesondere Sturmgewehre und Maschinenpistolen (SMGs).
+- **Sniper Weapons** – Waffen für große Entfernungen und hohe Durchschlagskraft.
+- **Heavy Weapons** – schwere Waffen; die genaue Abgrenzung und besondere Spielmöglichkeiten sind noch zu bestimmen.
+- **Ballistics** – „primitive“ Fernkampfwaffen wie Bögen und Armbrüste. Ob der Name dafür dauerhaft passt, kann noch geprüft werden.
+
+## Ältere Vorschläge und offene Abgrenzung
+
+Die frühere Liste lautete: Pistols, Rifles, Sniper Weapons, Heavy Weapons, Target Acquisition, Ballistics. **Rifles** wurde bisher nicht als eigene Domain abgegrenzt; Sturmgewehre liegen vorläufig bei Automatic Weapons, andere Gewehre bleiben über Shoot nutzbar. Ob **Target Acquisition** eine eigene Domain oder eine Fähigkeit in einem Skill Tree wird, ist noch offen.
 
 ## Regelbezug
 
