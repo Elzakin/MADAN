@@ -1,7 +1,9 @@
 ---
 type: rule-extraction
-status: offen
+status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
+chapter: 1
+subchapter: 3
 ---
 
 # Deckung

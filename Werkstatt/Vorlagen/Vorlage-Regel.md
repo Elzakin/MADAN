@@ -2,6 +2,8 @@
 type: rule
 status: entwurf
 sources: []
+chapter: 8
+subchapter: 0
 ---
 
 # Regel: Titel

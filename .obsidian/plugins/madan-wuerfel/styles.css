@@ -1,0 +1,72 @@
+.madan-dice {
+  color: var(--text-normal);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 100%;
+}
+.madan-dice .madan-dice-controls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.5rem;
+}
+.madan-dice .madan-dice-field { min-width: 0; }
+.madan-dice .madan-dice-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.madan-dice output { font-variant-numeric: tabular-nums; }
+.madan-dice input[type="range"] { width: 100%; margin: 0; }
+.madan-dice input[type="number"] { width: 100%; }
+.madan-dice .madan-dice-profiles input { width: 3.8rem; min-width: 3.2rem; text-align: center; }
+.madan-dice .madan-dice-profiles input[aria-invalid="true"] { border-color: var(--text-error); }
+.madan-dice .madan-dice-error { color: var(--text-error); }
+.madan-dice [hidden] { display: none !important; }
+.madan-dice .madan-dice-target {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+.madan-dice legend { padding: 0; margin-bottom: 0.5rem; }
+.madan-dice .madan-dice-target button { min-width: 2.75rem; }
+.madan-dice button[aria-pressed="true"] {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+.madan-dice .madan-dice-toggles { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; }
+.madan-dice .madan-dice-check { display: flex; align-items: center; gap: 0.5rem; }
+.madan-dice .madan-dice-check input { flex-shrink: 0; margin: 0; }
+.madan-dice .madan-dice-example { align-self: flex-start; white-space: normal; height: auto; min-height: 2rem; }
+.madan-dice p { margin: 0; }
+.madan-dice .madan-dice-summary { display: flex; flex-direction: column; gap: 0.4rem; }
+.madan-dice .madan-dice-equation { font-variant-numeric: tabular-nums; }
+.madan-dice .madan-dice-result { font-size: 1.6em; font-weight: 600; font-variant-numeric: tabular-nums; }
+.madan-dice .madan-dice-detail,
+.madan-dice .madan-dice-faces,
+.madan-dice .madan-dice-footnote { color: var(--text-muted); }
+.madan-dice .madan-dice-table-wrap { max-width: 100%; overflow-x: auto; }
+.madan-dice .madan-dice-table { width: 100%; margin: 0; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.madan-dice caption { text-align: left; color: var(--text-muted); margin-bottom: 0.5rem; }
+.madan-dice .madan-dice-table th,
+.madan-dice .madan-dice-table td { text-align: right; padding: 0.5rem 0.4rem; white-space: nowrap; }
+.madan-dice .madan-dice-table tbody th { color: var(--text-muted); }
+.madan-dice .madan-dice-table .is-pool { background: var(--background-secondary); }
+.madan-dice .madan-dice-table .is-selected { background: var(--interactive-accent); color: var(--text-on-accent); }
+.madan-dice .madan-dice-table .is-target { color: var(--text-accent); }
+@media (max-width: 480px) {
+  .madan-dice .madan-dice-controls { grid-template-columns: minmax(0, 1fr); }
+  .madan-dice .madan-dice-table th,
+  .madan-dice .madan-dice-table td { padding: 0.45rem 0.3rem; }
+  .madan-dice .madan-dice-detail { overflow-wrap: anywhere; }
+}
+@media (pointer: coarse) {
+  .madan-dice .madan-dice-target button,
+  .madan-dice .madan-dice-check,
+  .madan-dice .madan-dice-example { min-height: 44px; }
+}

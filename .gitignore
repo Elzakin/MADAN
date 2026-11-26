@@ -10,3 +10,7 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Generated Python caches
+__pycache__/
+*.py[cod]

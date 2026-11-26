@@ -2,6 +2,8 @@
 type: source-analysis
 topic: Skills, Action-Skills und Spezialisierungen
 source-file: "[[Archiv/Quellen/Discord/Unbekannt.txt]]"
+chapter: 2
+subchapter: 0
 ---
 
 # Skill-System – Auswertung des Chatverlaufs

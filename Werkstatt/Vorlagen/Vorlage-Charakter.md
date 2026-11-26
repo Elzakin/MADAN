@@ -2,6 +2,8 @@
 type: character-template
 status: entwurf
 sources: []
+chapter: 3
+subchapter: 0
 ---
 
 # Charaktername
