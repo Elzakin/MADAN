@@ -2,14 +2,14 @@
 type: referenz
 status: entwurf
 chapter: 1
-subchapter: 3
+subchapter: 2
 ---
 
 # Würfelmathematik
 
-Zentrale Referenz für [[Regelwerk/Kernregeln/Würfel-und-Fertigkeitsproben|Würfel- und Fertigkeitsproben]]: **1–10 tatsächlich geworfene Fertigkeitswürfel** gegen **Zielwerte 1–5**.
+Mathematisches Arbeitsblatt zu den [[Werkstatt/Würfelmechanik/Würfel-und-Fertigkeitsproben|Würfel- und Fertigkeitsproben]]: **1–10 tatsächlich geworfene Fertigkeitswürfel** gegen **Zielwerte 1–5**. Die dargestellten Modelle gehören zur unfertigen [[Werkstatt/Würfelmechanik/Würfelmechanik|Würfelmechanik]] und haben **Status Entwurf**.
 
-Die festen Tabellen dokumentieren den bisherigen Zielwertentwurf. Der frei konfigurierbare [[Werkstatt/Mathematik/Würfelrechner|W6-Poolrechner]] vergleicht zusätzlich Standard-, Fokus- und Risikowürfel sowie das neue Modell ohne variable Zielwerte.
+Die festen Tabellen dokumentieren den bisherigen Zielwertentwurf. Der [[Werkstatt/Würfelmechanik/Würfelrechner-frei|frei konfigurierbare Vergleichsrechner]] vergleicht zusätzlich Standard-, Fokus- und Risikowürfel mit und ohne variable Zielwerte. Die neueste additive Variante mit Erfolg nur auf der 6 steht im [[Werkstatt/Würfelmechanik/Würfelrechner|W6-Poolrechner]].
 
 ## Würfelwertung
 
@@ -150,4 +150,4 @@ Jeder W6 wird als fair und unabhängig angenommen. Die gewichteten Ergebnissumme
 
 Für $n$ Würfel liefert die jeweilige Funktion hoch $n$ die Verteilung der Summen. Alle Wahrscheinlichkeiten ab dem Zielwert werden addiert. Die mittlere Summe pro Würfel beträgt in dieser Reihenfolge **1/6**, **1/3**, **1/3** und **1/2** Erfolg; sie ist keine Erfolgsgarantie.
 
-Das prüfbare Modell und die Pflege der Referenz stehen unter [[Werkstatt/Mathematik/Mathematik|Mathematik in der Werkstatt]].
+Das prüfbare Modell und die Pflege der Referenz stehen unter [[Werkstatt/Würfelmechanik/Würfelmechanik|Mathematik in der Werkstatt]].

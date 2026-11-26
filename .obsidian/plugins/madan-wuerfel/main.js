@@ -134,11 +134,204 @@ function percent(value) {
 }
 module.exports = { KINDS, MAX_POOL, MAX_RISK, MAX_TARGET, MAX_FACE, DEFAULT_FACES, parseFace, normalize, pools, distribution, calculate, table, percent };
 },
+"./six-engine.js": function (require, module, exports) {
+"use strict";
+
+const MIN_SKILL = 1;
+const MAX_SKILL = 5;
+const MAX_SPECIALIZATION = 5;
+const MAX_EQUIPMENT = 10;
+const MAX_PENALTY = 10;
+const MAX_CONDITION = 10;
+const MAX_POOL = MAX_SKILL + MAX_SPECIALIZATION + MAX_EQUIPMENT + MAX_CONDITION;
+
+function integer(value, fallback, max, min = 0) {
+  const number = Number(value);
+  return Number.isFinite(number) ? Math.min(max, Math.max(min, Math.trunc(number))) : fallback;
+}
+
+function normalize(input = {}) {
+  return {
+    variante: "sechser",
+    skill: integer(input.skill ?? MIN_SKILL, MIN_SKILL, MAX_SKILL, MIN_SKILL),
+    spezialisierung: integer(input.spezialisierung ?? 5, 5, MAX_SPECIALIZATION),
+    ausruestung: integer(input.ausruestung ?? 0, 0, MAX_EQUIPMENT),
+    schwierigkeit: integer(input.schwierigkeit ?? 0, 0, MAX_PENALTY),
+    zustaende: integer(input.zustaende ?? 0, 0, MAX_CONDITION, -MAX_CONDITION)
+  };
+}
+
+function chance(dice) {
+  if (!Number.isInteger(dice) || dice < 0 || dice > MAX_POOL) throw new RangeError("Ungültige Würfelanzahl.");
+  const total = 6n ** BigInt(dice);
+  const failure = 5n ** BigInt(dice);
+  const success = total - failure;
+  return { dice, success: Number(success) / Number(total), failure: Number(failure) / Number(total), exact: { success, failure, total } };
+}
+
+function calculate(input = {}) {
+  const state = normalize(input);
+  const before = state.skill + state.spezialisierung + state.ausruestung + Math.max(0, state.zustaende);
+  const penalty = state.schwierigkeit + Math.max(0, -state.zustaende);
+  const dice = Math.max(0, before - penalty);
+  return { state, before, penalty, possible: dice > 0, ...chance(dice) };
+}
+
+module.exports = { MIN_SKILL, MAX_SKILL, MAX_SPECIALIZATION, MAX_EQUIPMENT, MAX_PENALTY, MAX_CONDITION, MAX_POOL, normalize, chance, calculate };
+},
+"./slider.js": function (require, module, exports) {
+"use strict";
+
+// Gemeinsame Ganzzahleingabe: Schieberegler und Zahlenfeld bedienen denselben Wert.
+function create(doc, parent, prefix, options, listen) {
+  const { name, label, max, min = 0, onInput } = options;
+  const wrapper = doc.createElement("div");
+  wrapper.className = "madan-dice-field";
+  parent.appendChild(wrapper);
+  const caption = doc.createElement("label");
+  caption.className = "madan-dice-label";
+  caption.textContent = label;
+  caption.setAttribute("for", prefix + "-" + name);
+  wrapper.appendChild(caption);
+  const row = doc.createElement("div");
+  row.className = "madan-dice-slider-row";
+  wrapper.appendChild(row);
+  const range = doc.createElement("input");
+  range.type = "range";
+  range.id = prefix + "-" + name;
+  range.dataset.slider = name;
+  range.setAttribute("aria-label", label);
+  row.appendChild(range);
+  const input = doc.createElement("input");
+  input.type = "number";
+  input.id = prefix + "-" + name + "-zahl";
+  input.dataset.control = name;
+  input.setAttribute("aria-label", label + " als Zahl");
+  row.appendChild(input);
+  for (const control of [range, input]) {
+    control.min = String(min);
+    control.max = String(max);
+    control.step = "1";
+    listen(control, "input", () => {
+      if (control.value.trim() === "") return;
+      const value = Number(control.value);
+      if (Number.isFinite(value)) onInput(value);
+    });
+    // Ein geleertes Zahlenfeld kehrt beim Verlassen zum letzten gültigen Wert zurück.
+    listen(control, "change", () => {
+      input.value = range.value;
+    });
+  }
+  function set(value, maximum = max) {
+    for (const control of [range, input]) {
+      control.max = String(maximum);
+      control.value = String(value);
+    }
+  }
+  set(options.value ?? min);
+  return { wrapper, input, range, set };
+}
+
+module.exports = { create };
+},
+"./six-widget.js": function (require, module, exports) {
+"use strict";
+const Six = require("./six-engine.js");
+const { percent } = require("./engine.js");
+const Slider = require("./slider.js");
+let instance = 0;
+
+function mount(container, initial = {}) {
+  const doc = container.ownerDocument;
+  let state = Six.normalize(initial);
+  const defaults = Six.normalize(initial);
+  const cleanup = [];
+  const prefix = "dice-six-" + (++instance);
+  function el(tag, text, cls, parent) {
+    const node = doc.createElement(tag);
+    if (text != null) node.textContent = text;
+    if (cls) node.className = cls;
+    if (parent) parent.appendChild(node);
+    return node;
+  }
+  function listen(node, event, callback) {
+    node.addEventListener(event, callback);
+    cleanup.push(() => node.removeEventListener(event, callback));
+  }
+  const root = el("section", null, "madan-dice madan-dice-six", container);
+  root.setAttribute("aria-label", "W6-Rechner: Skill und Spezialisierung addieren");
+  el("p", "Erster Wurf · nur die 6 ist ein Erfolg", "madan-dice-faces", root);
+  const controls = el("div", null, "madan-dice-controls", root);
+  const sliders = {};
+  for (const [name, label, max, min = 0] of [
+    ["skill", "Skill", Six.MAX_SKILL, Six.MIN_SKILL],
+    ["spezialisierung", "Spezialisierung · zusätzliche Würfel", Six.MAX_SPECIALIZATION],
+    ["ausruestung", "Ausrüstung · Bonuswürfel", Six.MAX_EQUIPMENT],
+    ["schwierigkeit", "Schwierigkeit · Würfelabzug", Six.MAX_PENALTY],
+    ["zustaende", "Zustände · − Debuff / + Buff", Six.MAX_CONDITION, -Six.MAX_CONDITION]
+  ]) {
+    sliders[name] = Slider.create(doc, controls, prefix, {
+      name, label, max, min, value: state[name],
+      onInput: value => { state[name] = value; update(); }
+    }, listen);
+  }
+  const summary = el("div", null, "madan-dice-summary", root);
+  summary.setAttribute("aria-live", "polite");
+  const equation = el("p", null, "madan-dice-equation", summary);
+  const requirement = el("p", null, "madan-dice-requirement", summary);
+  const result = el("p", null, "madan-dice-result", summary);
+  const detail = el("p", null, "madan-dice-detail", summary);
+  const table = el("table", null, "madan-dice-table", el("div", null, "madan-dice-table-wrap", root));
+  el("caption", "Vergleich nach Boni und Abzügen · mindestens eine 6", null, table);
+  const header = el("tr", null, null, el("thead", null, null, table));
+  for (const label of ["Verbleibende W6", "Erfolg beim ersten Wurf"]) el("th", label, null, header).setAttribute("scope", "col");
+  const body = el("tbody", null, null, table);
+  const reset = el("button", "Startwerte wiederherstellen", "madan-dice-example", root);
+  reset.type = "button";
+  listen(reset, "click", () => { state = { ...defaults }; update(); });
+
+  function update() {
+    const outcome = Six.calculate(state);
+    state = outcome.state;
+    for (const [name, slider] of Object.entries(sliders)) slider.set(state[name]);
+    const condition = state.zustaende < 0 ? " − " + Math.abs(state.zustaende) + " Zustände (Debuff)" : " + " + state.zustaende + " Zustände" + (state.zustaende > 0 ? " (Buff)" : "");
+    equation.textContent = state.skill + " Skill + " + state.spezialisierung + " Spezialisierung + " + state.ausruestung + " Ausrüstung − " + state.schwierigkeit + " Schwierigkeit" + condition + " = " + outcome.dice + " W6" + (outcome.penalty > outcome.before ? " (auf 0 begrenzt)" : "");
+    requirement.textContent = outcome.possible ? "Mindestens eine 6 besteht die Probe. Die Augenzahlen 1–5 geben keine Erfolge." : "0 verbleibende Würfel: Die Handlung ist nicht machbar.";
+    result.textContent = outcome.possible ? percent(outcome.success) + " Erfolgschance beim ersten Wurf" : "Nicht machbar · 0 W6";
+    detail.textContent = outcome.possible ? "Kein Erfolg beim ersten Wurf: " + percent(outcome.failure) : "Es wird kein Wurf ausgeführt.";
+    body.textContent = "";
+    const rows = Array.from({ length: 11 }, (_, i) => i);
+    if (outcome.dice > 10) rows.push(outcome.dice);
+    for (const dice of rows) {
+      const tr = el("tr", null, null, body);
+      tr.dataset.pool = String(dice);
+      const selected = dice === outcome.dice;
+      tr.classList.toggle("is-pool", selected);
+      el("th", String(dice), null, tr).setAttribute("scope", "row");
+      const cell = el("td", dice === 0 ? "Nicht machbar" : percent(Six.chance(dice).success), null, tr);
+      cell.classList.toggle("is-selected", selected);
+      if (selected) cell.setAttribute("aria-current", "true");
+    }
+  }
+  update();
+  return {
+    getState: () => ({ ...state }),
+    setState: input => { state = Six.normalize(input); update(); },
+    destroy: () => { cleanup.forEach(remove => remove()); root.remove(); }
+  };
+}
+
+module.exports = { mount };
+},
 "./widget.js": function (require, module, exports) {
 "use strict";
 const Dice = require("./engine.js");
+const SixWidget = require("./six-widget.js");
+const Slider = require("./slider.js");
 let instance = 0;
 function mount(container, initial = {}) {
+  if (initial.variante === "sechser") return SixWidget.mount(container, initial);
+  if (initial.variante != null && initial.variante !== "frei") throw new TypeError("Variante sechser oder frei erwartet.");
   const doc = container.ownerDocument;
   let state = Dice.normalize(initial);
   const cleanup = [];
@@ -168,21 +361,12 @@ function mount(container, initial = {}) {
   }
   const controls = el("div", null, "madan-dice-controls", root);
   const inputs = {};
+  const sliders = {};
   function number(name, label, max, min = 0) {
-    const wrapper = el("div", null, "madan-dice-field", controls);
-    const caption = el("label", label, "madan-dice-label", wrapper);
-    const id = prefix + "-" + name;
-    caption.setAttribute("for", id);
-    const input = el("input", null, null, wrapper);
-    input.id = id;
-    input.type = "number";
-    input.min = String(min);
-    input.max = String(max);
-    input.step = "1";
-    input.dataset.control = name;
-    inputs[name] = input;
-    listen(input, "input", () => { state[name] = Number(input.value); update(); });
-    return wrapper;
+    const slider = Slider.create(doc, controls, prefix, { name, label, max, min, value: state[name], onInput: value => { state[name] = value; update(); } }, listen);
+    sliders[name] = slider;
+    inputs[name] = slider.input;
+    return slider.wrapper;
   }
   number("pool", "Hauptpool insgesamt", Dice.MAX_POOL);
   number("fokus", "Davon Fokuswürfel", Dice.MAX_POOL);
@@ -259,8 +443,7 @@ function mount(container, initial = {}) {
     state = outcome.state;
     error.hidden = true;
     error.textContent = "";
-    for (const name of ["pool", "fokus", "erschwerung", "risiko", "zielwert"]) inputs[name].value = String(state[name]);
-    inputs.fokus.max = String(state.pool);
+    for (const name of ["pool", "fokus", "erschwerung", "risiko", "zielwert"]) sliders[name].set(state[name], name === "fokus" ? state.pool : Number(inputs[name].max));
     inputs.risiko_aktiv.checked = state.risiko_aktiv;
     targetWrapper.hidden = state.modus !== "zielwert";
     for (const button of modeButtons) button.setAttribute("aria-pressed", String(button.dataset.mode === state.modus));

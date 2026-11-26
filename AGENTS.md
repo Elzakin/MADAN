@@ -33,6 +33,7 @@
 - `Welt/`: das Universum des Spiels mit Geschichte, Orten, Kulturen, Fraktionen und Personen.
 - `Glossar/`: ausführliche Einzeleinträge zu nachschlagbaren Begriffen. Fertigkeiten und ihre einzelnen Skill-Notizen liegen gemeinsam unter `Regelwerk/Charakter/Fertigkeiten`.
 - `Werkstatt/`: aktive Entwürfe, Auswertungen, Vorlagen und offene Widersprüche. Inhalte hier gelten nicht automatisch als beschlossene Regeln.
+- `Werkstatt/Würfelmechanik/`: die gesamte noch unfertige Würfelmechanik einschließlich Proben, Pools, Seitenwertungen, Freischaltungen, Mathematik und Rechner. Diese Inhalte bleiben Werkstattentwürfe und werden im Regelwerk nur als solche verlinkt.
 - `Archiv/Quellen/`: unveränderte Originale, Exporte und quellennahe Dokumente.
 - `Archiv/Bilder/`: Bilder und andere visuelle Medien des Vaults.
 

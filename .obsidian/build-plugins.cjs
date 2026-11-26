@@ -4,7 +4,7 @@ const path = require("node:path");
 
 const packages = {
   "madan-navigation": ["ordering.js", "plugin.js"],
-  "madan-wuerfel": ["engine.js", "widget.js", "plugin.js"]
+  "madan-wuerfel": ["engine.js", "six-engine.js", "slider.js", "six-widget.js", "widget.js", "plugin.js"]
 };
 
 function bundle(directory, files) {

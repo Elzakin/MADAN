@@ -22,7 +22,7 @@ MAX_TARGET = 5
 START = '%% wuerfelmathematik:tabellen:start %%'
 END = '%% wuerfelmathematik:tabellen:ende %%'
 ROOT = Path(__file__).resolve().parents[2]
-REFERENCE = ROOT / 'Regelwerk/Kernregeln/Würfelmathematik.md'
+REFERENCE = ROOT / 'Werkstatt/Würfelmechanik/Würfelmathematik.md'
 
 
 @lru_cache(maxsize=None)

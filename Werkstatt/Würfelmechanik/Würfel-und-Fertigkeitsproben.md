@@ -1,16 +1,18 @@
 ---
-type: regelwerk
+type: werkstatt
 status: entwurf
 sources: ["[[Archiv/Quellen/Google-Docs/Projekt-Madan-Quelltranskription]]"]
 chapter: 1
-subchapter: 2
+subchapter: 1
 ---
 
 # Würfel- und Fertigkeitsproben
 
-Der interaktive Rechner und die Wahrscheinlichkeitstabellen für 1–10 Fertigkeitswürfel gegen Zielwerte 1–5 stehen in der zentralen Referenz [[Regelwerk/Kernregeln/Würfelmathematik|Würfelmathematik]].
+Diese Notiz sammelt **unfertige Arbeitsstände der Würfelmechanik**. Alle folgenden Wertungen, Schwellen und Abläufe haben den Status **Entwurf** und werden in der [[Werkstatt/Würfelmechanik/Würfelmechanik|Werkstatt]] weiterentwickelt.
 
-Die folgenden Regeln beschreiben den bisherigen Zielwertentwurf. Seit dem Arbeitsgespräch vom 25. November 2026 wird zusätzlich ein gemischter Standard-/Fokuspool und ein Modell ohne variable Zielwerte untersucht. Der [[Werkstatt/Mathematik/Würfelrechner|frei konfigurierbare W6-Poolrechner]] bildet beide Modi, separate Risikowürfel und C als Fehlschlag des gesamten Wurfs ab; siehe [[Werkstatt/Widersprüche/Widersprüche#W-016|W-016]].
+Der interaktive Rechner und die Wahrscheinlichkeitstabellen für 1–10 Fertigkeitswürfel gegen Zielwerte 1–5 stehen unter [[Werkstatt/Würfelmechanik/Würfelmathematik|Würfelmathematik]].
+
+Die folgenden Regeln beschreiben den bisherigen Zielwertentwurf. Seit dem Arbeitsgespräch vom 25. November 2026 wird zusätzlich ein gemischter Standard-/Fokuspool und ein Modell ohne variable Zielwerte untersucht. Der [[Werkstatt/Würfelmechanik/Würfelrechner-frei|frei konfigurierbare W6-Poolrechner]] bildet beide Modi, separate Risikowürfel und C als Fehlschlag des gesamten Wurfs ab; siehe [[Werkstatt/Widersprüche/Widersprüche#W-016|W-016]]. Die neueste additive Variante mit Erfolg nur auf der 6 und dem weiteren Push-/Chaosentwurf steht unter [[Werkstatt/Würfelmechanik/Würfelrechner|W6-Poolrechner]]; siehe [[Werkstatt/Widersprüche/Widersprüche#W-017|W-017]].
 
 ## W6-Ergebnisse
 
@@ -31,7 +33,7 @@ Eine Meisterschaft ist an eine Domäne gebunden und lässt bei passenden Proben 
 
 ## Erschwerungen
 
-Die Fertigkeitsstufe bestimmt den Ausgangspool mit maximal 10 Fertigkeitswürfeln. Eine Erschwerung zieht die angegebene Anzahl Würfel ab:
+Im bisherigen Entwurf gibt jede Fertigkeitsstufe einen zusätzlichen Fertigkeitswürfel (W6), bis zu maximal 10 Fertigkeitswürfeln auf Stufe 10. Eine Erschwerung zieht die angegebene Anzahl Würfel ab:
 
 **Würfelpool = max(0, Fertigkeitsstufe − Erschwerung)**.
 

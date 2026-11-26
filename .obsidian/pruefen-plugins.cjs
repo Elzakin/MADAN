@@ -41,7 +41,7 @@ async function check() {
         const processor = plugin.processors.get("w6-pool");
         assert.equal(typeof processor, "function");
         assert.equal(plugin.processors.get("madan-wuerfel"), processor);
-        for (const [source, expected] of [["", {}], ['{"fertigkeit":6,"viererfolg":true}', { fertigkeit: 6, viererfolg: true }], ["[]", {}]]) {
+        for (const [source, expected] of [["", {}], ['{"fertigkeit":6,"viererfolg":true}', { fertigkeit: 6, viererfolg: true }], ['{"variante":"sechser","skill":5,"spezialisierung":5}', { variante: "sechser", skill: 5, spezialisierung: 5 }], ["[]", {}]]) {
           const children = [];
           processor(source, {}, { addChild: child => children.push(child) });
           assert.equal(children.length, 1);

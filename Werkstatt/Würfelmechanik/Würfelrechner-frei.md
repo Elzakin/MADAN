@@ -2,14 +2,19 @@
 type: werkstatt
 status: entwurf
 chapter: 1
-subchapter: 1
+subchapter: 4
 ---
 
-# W6-Poolrechner
+# Frei konfigurierbarer W6-Poolrechner
 
 Ein frei konfigurierbarer Wahrscheinlichkeitsrechner für **Standard-, Fokus- und Risikowürfel**. Jeder Würfeltyp hat eine eigene Wertung für die Augenzahlen 1–6. Alle Würfel werden als faire, unabhängige W6 behandelt.
 
+Der Rechner ist ein Werkzeug für die noch unfertige [[Werkstatt/Würfelmechanik/Würfelmechanik|Würfelmechanik]]. Seine Startwerte und Auswertungsvarianten sind **Entwürfe zum Testen**.
+
+Dies ist der bisherige Vergleichsrechner mit Fokus als Ersatz für Standardwürfel. Die neue additive Variante mit Erfolg nur auf der 6 steht unter [[Werkstatt/Würfelmechanik/Würfelrechner|W6-Poolrechner]]. Alle Würfelanzahlen lassen sich hier ebenfalls über Schieberegler oder Zahlenfelder einstellen.
+
 ```w6-pool
+variante: frei
 pool: 8
 fokus: 3
 erschwerung: 2
@@ -54,4 +59,4 @@ Die Vergleichstabelle variiert den Hauptpool vor Abzug von 1–10. Fokusanteil u
 
 Interaktive Änderungen gelten für die geöffnete Rechnerinstanz. Die Startwerte werden im `w6-pool`-Block gespeichert. Technische Eingabegrenzen: Hauptpool 0–30, Risikowürfel 0–10, Schwierigkeit 0–30, Zielwerte 1–30 und Seitenwerte −99 bis 99 oder C.
 
-Der Rechner dient dem Vergleich von Entwürfen. Das Modell ohne Zielwerte wird im Arbeitsgespräch vom **25. November 2026** erwogen. Die bisherigen festen Zielwerttabellen bleiben unter [[Regelwerk/Kernregeln/Würfelmathematik|Würfelmathematik]] nachvollziehbar. Hinweise zur Berechnung und Prüfung stehen unter [[Werkstatt/Mathematik/Mathematik|Mathematik]].
+Der Rechner dient dem Vergleich von Entwürfen. Das Modell ohne Zielwerte wird im Arbeitsgespräch vom **25. November 2026** erwogen. Die bisherigen festen Zielwerttabellen bleiben unter [[Werkstatt/Würfelmechanik/Würfelmathematik|Würfelmathematik]] nachvollziehbar. Hinweise zur Berechnung und Prüfung stehen unter [[Werkstatt/Würfelmechanik/Würfelmechanik|Mathematik]].

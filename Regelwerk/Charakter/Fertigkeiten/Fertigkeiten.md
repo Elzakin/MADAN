@@ -27,17 +27,7 @@ Fertigkeiten reichen von Stufe 0 bis Stufe 10. Die Steigerung auf die Stufen 1-5
 
 Die Fertigkeit beginnt bei 0 und kann im Abenteuer durch Skillpunkte gesteigert werden.
 
-Jede Fertigkeitsstufe gibt einen zusätzlichen Fertigkeitswürfel (W6), bis zu maximal 10 Fertigkeitswürfeln auf Stufe 10.
-
-Ab Fertigkeitsstufe 5 kann „4 zählt als Erfolg“ separat freigeschaltet werden. Stufe 5 ist die Voraussetzung und verleiht den Bonus nicht automatisch. Kosten und Erwerbsweg der Freischaltung sind noch offen. Eine vorhandene Freischaltung bleibt bei Erschwerungen erhalten: Stufe 6 minus Erschwerung 2 ergibt 4 Würfel, auf denen die freigeschaltete 4 weiterhin einen Erfolg zählt.
-
-Eine Meisterschaft ist an eine Domäne gebunden und lässt bei passenden Proben die 6 zwei Erfolge zählen. Eine Domäne allein ändert die Würfelwertung nicht. Die beiden Freischaltungen werden im aktuellen Entwurf unabhängig betrachtet. Die genaue Wertung steht unter [[Regelwerk/Kernregeln/Würfel-und-Fertigkeitsproben|Würfel- und Fertigkeitsproben]].
-
-Erfolgschancen je Stufe und Zielwert: [[Regelwerk/Kernregeln/Würfelmathematik|Würfelmathematik]].
-
-## Fokuswürfel im neuen Entwurf
-
-Spezialisierungen werden als Fokusanteil innerhalb des gesamten Fertigkeitspools untersucht. Beispiel: Fertigkeit 8 mit Fokusdisziplin 3 ergibt **5 Standard- und 3 Fokuswürfel**. Der Fokusanteil ersetzt Standardwürfel. Schwierigkeit entfernt zuerst Standard-, danach Fokuswürfel; separate Risikowürfel bleiben verfügbar, auch bei 0 Hauptwürfeln. Der [[Werkstatt/Mathematik/Würfelrechner|W6-Poolrechner]] erlaubt den Vergleich der Seitenwerte und eines Modells ohne variable Zielwerte. Siehe [[Werkstatt/Widersprüche/Widersprüche#W-016|W-016]].
+Die Würfelmechanik wird unter [[Werkstatt/Würfelmechanik/Würfelmechanik|Würfelmechanik in der Werkstatt]] ausgearbeitet. Dort stehen die Entwürfe zu Würfelpools, Spezialisierungen, Freischaltungen und Probenauswertung.
 
 ## Einträge
 

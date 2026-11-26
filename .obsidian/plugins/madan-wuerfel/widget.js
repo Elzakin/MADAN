@@ -1,7 +1,11 @@
 "use strict";
 const Dice = require("./engine.js");
+const SixWidget = require("./six-widget.js");
+const Slider = require("./slider.js");
 let instance = 0;
 function mount(container, initial = {}) {
+  if (initial.variante === "sechser") return SixWidget.mount(container, initial);
+  if (initial.variante != null && initial.variante !== "frei") throw new TypeError("Variante sechser oder frei erwartet.");
   const doc = container.ownerDocument;
   let state = Dice.normalize(initial);
   const cleanup = [];
@@ -31,21 +35,12 @@ function mount(container, initial = {}) {
   }
   const controls = el("div", null, "madan-dice-controls", root);
   const inputs = {};
+  const sliders = {};
   function number(name, label, max, min = 0) {
-    const wrapper = el("div", null, "madan-dice-field", controls);
-    const caption = el("label", label, "madan-dice-label", wrapper);
-    const id = prefix + "-" + name;
-    caption.setAttribute("for", id);
-    const input = el("input", null, null, wrapper);
-    input.id = id;
-    input.type = "number";
-    input.min = String(min);
-    input.max = String(max);
-    input.step = "1";
-    input.dataset.control = name;
-    inputs[name] = input;
-    listen(input, "input", () => { state[name] = Number(input.value); update(); });
-    return wrapper;
+    const slider = Slider.create(doc, controls, prefix, { name, label, max, min, value: state[name], onInput: value => { state[name] = value; update(); } }, listen);
+    sliders[name] = slider;
+    inputs[name] = slider.input;
+    return slider.wrapper;
   }
   number("pool", "Hauptpool insgesamt", Dice.MAX_POOL);
   number("fokus", "Davon Fokuswürfel", Dice.MAX_POOL);
@@ -122,8 +117,7 @@ function mount(container, initial = {}) {
     state = outcome.state;
     error.hidden = true;
     error.textContent = "";
-    for (const name of ["pool", "fokus", "erschwerung", "risiko", "zielwert"]) inputs[name].value = String(state[name]);
-    inputs.fokus.max = String(state.pool);
+    for (const name of ["pool", "fokus", "erschwerung", "risiko", "zielwert"]) sliders[name].set(state[name], name === "fokus" ? state.pool : Number(inputs[name].max));
     inputs.risiko_aktiv.checked = state.risiko_aktiv;
     targetWrapper.hidden = state.modus !== "zielwert";
     for (const button of modeButtons) button.setAttribute("aria-pressed", String(button.dataset.mode === state.modus));

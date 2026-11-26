@@ -14,7 +14,7 @@ subchapter: 16
 
 ## Grundanwendung
 
-Psionics ist die Grundfertigkeit für die aktive Nutzung und Kontrolle psionischer Kräfte. Domains geben keinen eigenen Würfelbonus, sondern eröffnen die zugehörigen Skill Trees.
+Psionics ist die Grundfertigkeit für die aktive Nutzung und Kontrolle psionischer Kräfte. Domains eröffnen die zugehörigen Skill Trees. Ihre Würfelwirkung wird unter [[Werkstatt/Würfelmechanik/Würfelmechanik|Würfelmechanik in der Werkstatt]] ausgearbeitet.
 
 ## Domains
 

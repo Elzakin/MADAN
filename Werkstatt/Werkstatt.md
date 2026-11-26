@@ -10,7 +10,7 @@ Die Werkstatt enthält aktive Arbeitsunterlagen, Auswertungen, Vorlagen und offe
 ## Bereiche
 
 - [[Auswertungen/Auswertungen|Auswertungen]]
-- [[Mathematik/Mathematik|Mathematik]]
+- [[Würfelmechanik/Würfelmechanik|Würfelmechanik]]
 - [[Navigation-und-Sortierung]]
 - [[Vorlagen/Vorlagen|Vorlagen]]
 - [[Widersprüche/Widersprüche|Widersprüche]]

@@ -43,7 +43,7 @@ Ein grundlegender Kompetenzbereich eines Charakters, dem konkrete Domains zugeor
 _Avoid_: Skill
 
 **Domain**:
-Eine mechanisch relevante Spezialisierung innerhalb einer Fertigkeit und der Zugang zu einem zugehörigen Skill Tree. Eine Domain gibt selbst keinen Würfelbonus; konkrete Boni und Sonderfähigkeiten stammen aus dem Skill Tree.
+Eine mechanisch relevante Spezialisierung innerhalb einer Fertigkeit und der Zugang zu einem zugehörigen Skill Tree. Konkrete Boni und Sonderfähigkeiten werden dort beschrieben; ihre Würfelwirkung wird in der Werkstatt ausgearbeitet.
 
 **Skill Tree**:
 Die Fortschrittsstruktur einer Domain, über die konkrete Boni und Sonderfähigkeiten erworben werden.
@@ -68,11 +68,5 @@ Die Grundfertigkeit zum Fahren oder Fliegen eines Fahrzeugs, in dem sich die ste
 **Control**:
 Die Grundfertigkeit zur Fernsteuerung eines räumlich getrennten Objekts oder Systems. Die steuernde Figur bewegt sich nicht mit dem kontrollierten Objekt.
 
-**Meisterschaft**:
-Eine an eine Domäne gebundene Erweiterung, durch die bei passenden Proben die 6 zwei Erfolge zählt. Die 4 als Erfolg ist eine separate Freischaltung ab Fertigkeitsstufe 5. Beide Freischaltungen werden im aktuellen Arbeitsentwurf unabhängig betrachtet.
-
-**Freischaltung der 4**:
-Ab Fertigkeitsstufe 5 kann „4 zählt als Erfolg“ separat freigeschaltet werden. Die Stufe gewährt den Bonus nicht automatisch; Kosten und Erwerbsweg sind noch offen. Maßgeblich ist die ursprüngliche Fertigkeitsstufe vor Erschwerungen; diese ziehen ausschließlich Würfel ab und heben eine vorhandene Freischaltung nicht auf.
-
-**Fokuswürfel (neuer Entwurf)**:
-Fokuswürfel repräsentieren Spezialisierungen und ersetzen einen Teil des Standardpools: Fertigkeit 8, Fokus 3 ergibt 5 Standard- und 3 Fokuswürfel. Schwierigkeit entfernt zuerst Standard-, danach Fokuswürfel bis mindestens 0; optionale Risikowürfel werden separat hinzugefügt und nicht abgezogen. Der frei konfigurierbare Rechner unter [[Werkstatt/Mathematik/Würfelrechner]] vergleicht diesen Ansatz mit und ohne variable Zielwerte. Ohne Zielwert ist mindestens ein Nettoerfolg nötig. Ein C auf irgendeinem Würfel lässt den gesamten Wurf scheitern.
+**Würfelmechanik (Werkstattentwurf)**:
+Die gesamte Würfelmechanik ist noch unfertig und liegt unter [[Werkstatt/Würfelmechanik/Würfelmechanik]]. Dazu gehören Fertigkeitswürfel, Fokus- und Risikopools, Seitenwertungen, C, Freischaltungen, Meisterschaften, Zielwerte und Erschwerungen. Ihre konkrete Ausgestaltung wird ausschließlich als Werkstattentwurf behandelt; im Regelwerk stehen dazu Verweise auf den Arbeitsbereich.
